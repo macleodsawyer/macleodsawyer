@@ -13,32 +13,6 @@
 /* BASE RULES */
 /**************/
 
-/*
-Theme Name: PoseidonWP
-Theme URI: http://underscores.me/
-Author: Macleod Sawyer
-Author URI: http://macleodsawyer.com
-Description: Poseidon but for WordPress.
-Version: 1.0.0
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: poseidonwp
-Tags:
-
-This theme, like WordPress, is licensed under the GPL.
-Use it to make something cool, have fun, and share what you've learned with others.
-
-PoseidonWP is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
-
-Normalizing styles have been helped along thanks to the fine work of
-Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
-*/
-
-/**
- * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
- * http://cssreset.com
- */
-
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,b
@@ -67,8 +41,10 @@ footer, header, hgroup, menu, nav, section {
 body,html {
 	width:100%;
 	height:100%;
-	line-height: 1;
+	line-height: 1.6;
 	margin-bottom: 30px;
+    font-size: 20px;
+	font-family: "Lato", sans-serif !important;
 }
 ol, ul {
 	list-style: none;
@@ -86,9 +62,12 @@ table {
 	border-spacing: 0;
 }
 
-*{font-family: 'Merriweather', serif;}
 
-a{color:#00D9D9;}
+a{  border-bottom: 1px solid #F3BC15;
+  box-shadow: 0px -2px 0px #F3BC15 inset;
+  text-decoration: none;
+  color:inherit;
+  }
 
 .cf:before,
 .cf:after {
@@ -111,7 +90,7 @@ a{color:#00D9D9;}
 /*Header*/
 header{
 	width:100%;
-	background: #474747; no-repeat center;
+	background: #474747 no-repeat center;
 	background-size:cover;
 	background-attachment:fixed;
 	margin-bottom:15px;
@@ -160,6 +139,7 @@ header{
   margin-right: 15px;
   margin-top: 15px;
   padding-top: 10px;
+    font-size: 16px;
 }
 
 .header-nav a{
@@ -171,7 +151,7 @@ header{
   margin-left: 15px;
   font-family: 'Lato', sans-serif !important;
 }
-}
+
 
 .header-nav ul { padding:0; margin:0; list-style:none; border:0; float:left;}
 .header-nav ul li { float:left; margin:0; padding:0; border:0;}
@@ -197,8 +177,7 @@ header{
   display: block;
   z-index: 9;
   width: 100%;
-padding-bottom: 8%;
-  margin-top: 8.5%;
+  padding: 6.5% 2% 6.5% 2%;
   text-align: center;
   text-shadow: 0 1px 5px rgba(0,0,0,.2);
 }
@@ -208,25 +187,19 @@ padding-bottom: 8%;
 }
 
 header h1{
-	font-size:40px;
-	color:#fff;
-	font-weight:100;
-	line-height:1.3;
-	letter-spacing:2px;
-	margin-bottom:10px;
-	font-family: 'Lato', sans-serif !important;
-	padding-left: 15PX;
-  padding-right: 15px;
+	display: inline-block;
+	font-weight: 100;
+	font-size: 40px;
+	padding: 0px 20px;
+	letter-spacing: 2px;
+	color: #FFF;
 }
 
 header h2{
 	font-size:20px;
 	letter-spacing:2px;
-	color:rgba(255,255,255,0.9);
 	font-style: italic;
-	line-height:1.6;
 	font-weight:100;
-	font-family: 'Merriweather', serif !important;
 }
 .header-overlay {
     background: rgba(0,0,0,0.5);
@@ -242,39 +215,45 @@ header h2{
 
 /*Content*/
 .container{
-	max-width:800px;
-	margin:0 auto;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
+
+
 #content{
-	padding:50px 0;
     padding-left: 10px;
     padding-right: 5px;
     margin-bottom: -70px;
-    font-family: 'Merriweather', serif;
+	  line-height: 1.8;
 }
 
-.article-top {
-  text-align: center;
-  margin-top: -50px;
-  margin-bottom: 15px;
-font-style: italic;
+.menu {
+    text-align: center;
+	margin-bottom: 50px;
 }
 
-.border-dash-top {
-  width: 15%;
-  height: 2px;
-  background: #007aff;
-  margin-left: 44%;
-  margin-bottom: 2%;
-  border-radius: 25%;
+.menu ul {
+    padding-left: 0px;
+	margin-bottom: 20px;
+}
+
+.menu ul li {
+    display: inline;
+    margin: 0px 7px;
+}
+
+.menu ul a {
+    text-decoration: none;
+    padding: 5px 7px;
+	color:#F3BC15;
+	border-bottom: none;
+ 	box-shadow: none;
 }
 
 article{
-	font-size:18px;
 	color:#555;
 	  padding-bottom: 50px;
-	  line-height:1.8;
 	    margin-top: -25px;
 } 
 
@@ -383,9 +362,8 @@ article p{
 
 article img{
   width: 100%;
-  border-radius: 5px;
-  box-shadow: 0 1px 10px rgba(0,0,0,.25);
   height: 100%;
+  margin: 0 auto;
 }
 
 article p strong{
@@ -444,15 +422,14 @@ article pre *{
 	font-family: 'Lato', sans-serif !important;
 }
 
-article hr{
-  width: 15%;
-  height: 2px;
-  background: #007aff;
-  margin-left: 44%;
-  margin-top: 5%;
-  margin-bottom: 5%;
-  border-radius: 25%;
+hr{
+    border: 0px none;
+    height: 2px;
+    width: 15%;
+	border-bottom: 1px solid #F3BC15;
+	box-shadow: 0px -2px 0px #F3BC15 inset;
 }
+
 
 .pagination{
 	text-align:center;
@@ -489,11 +466,6 @@ article hr{
 .pagination a.newer-posts{
 	margin-right:15px;
 	margin-left:-15px;
-}
-
-.pagination a:hover{
-	color:#00D9D9;
-	border-color:#00D9D9;
 }
 
 img[alt="main-image"]{display:none;}
@@ -535,7 +507,7 @@ footer{
 
 #social-links a:hover{
 	text-decoration:underline;
-	color:##28c0b7;
+	color:#28c0b7;
 }
 
 #rights{
@@ -587,6 +559,61 @@ padding: 30px 0;
 background: rgb(244, 244, 244) none repeat scroll 0% 0%;
 margin-bottom: 30px !important;
 }
+
+
+// Index
+
+.recent-posts {
+    margin-bottom: 5rem;
+    padding-left: 0px;
+}
+.recent-posts li {
+  margin-bottom: 20px;
+  list-style-type: none;
+}
+
+.recent-posts a {
+text-decoration: none;
+color: #555;
+}
+
+
+
+.recent-posts li .title {
+padding: 0px;
+  text-decoration: none;
+  color: #555;
+  font-size: 22px;
+}
+
+.recent-posts li .date {
+    float: right;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.2);
+}
+
+.recent-posts li div {
+    padding: 5px 0px;
+}
+
+
+.recent-posts .date {
+    font-family: "Avenir Next LT W01 Bold","Avenir Next",sans-serif;
+    font-weight: normal;
+    font-size: 13px;
+}
+.recent-posts .date {
+    float: left;
+    margin-top: 7px;
+    margin-bottom: 25px;
+    margin-left: -190px;
+    width: 150px;
+    text-align: right;
+    text-transform: uppercase;
+    color: #FD7F05;
+}
+
 
 @media (max-width:900px) {
     article blockquote {

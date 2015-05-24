@@ -55,7 +55,7 @@ baseurl: ""
 
 markdown: redcarpet
 highlighter: pygments
-permalink: /:title/
+permalink: /:year/:month/:day/:title/
 
 # The release of Jekyll Now that you're using
 version: v1.1.0
@@ -67,7 +67,7 @@ sass:
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-
+  
 # Exclude these files from your production _site
 exclude:
     - Gemfile

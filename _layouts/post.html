@@ -2,10 +2,22 @@
 layout: default
 ---
 
+<header id="site-head" class="indexhead" style="background: #000 !important;" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="-35">
+<div class="header-overlay">
+<div class="header-overlay">
+<div class="navbar-bg"></div>
+<div class="cf"></div>
+<div id="title">
+		<h1>{{ page.title }}</h1>
+	</div>
+</div>
+</header>
+{% include navbar.html %}
+<div class="container" id="content" role="main">
+<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+		
 <article class="post">
-  <h1>{{ page.title }}</h1>
-
-  <div class="entry">
     {{ content }}
   </div>
 

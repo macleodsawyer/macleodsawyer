@@ -1,18 +1,34 @@
 ---
 layout: default
 ---
+                 
+    
+<main id="main" class="site-main" role="main">
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<header id="site-head" class="indexhead" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="-35">
+<div class="header-overlay">
+<div class="navbar-bg"></div>
+<div class="cf"></div>
+<div id="title">
+		<h1>Macleod Sawyer</h1>
+	</div>
+</div>
+</header>
+</div>
+{% include navbar.html %}
+<div class="container" id="content">
+            
+          {% for post in site.posts %}
+            <ul class="recent-posts">
+                <li>
+                    <a href="{{ site.baseurl }}{{ post.url }}">
+                      <div>
+                        <span class="title">{{ post.title }}</span>
+                        <span class="date">{{ post.date | date: "%B %e, %Y" }}</span>
+                      </div>
+                    </a>
+                  </li>
+                            
+          {% endfor %}
+            
 </div>
