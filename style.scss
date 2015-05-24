@@ -38,6 +38,11 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+
+::selection {
+  background: #F3BC15;
+}
+
 body,html {
 	width:100%;
 	height:100%;
@@ -106,7 +111,7 @@ header {
 	background-size:cover;
 	background-attachment:fixed;
 	margin-bottom:15px;
-	  margin-top: 65px;
+	  margin-top: 35px;
 }
 
 .menu-fixed {
@@ -123,19 +128,18 @@ header {
 
 
 .logo {
-  height: 65px;
-  position: fixed;
-  overflow: hidden;
-  text-align: center;
-  vertical-align: middle;
-  font-size: 40px;
-  color: #F3BC15;
-  width: 100%;
-  background: #FFF none repeat scroll 0% 0%;
-  top: 0px;
-  left: 0px;
-  z-index: 99999;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+    position: fixed;
+    overflow: hidden;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 35px;
+    color: #F3BC15;
+    width: 100%;
+    background: #FFF none repeat scroll 0% 0%;
+    top: 0px;
+    left: 0px;
+    z-index: 99999;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.04);
 }
 
 

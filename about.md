@@ -21,5 +21,5 @@ I am also a member of <a href="https://www.googleforentrepreneurs.com/">Google F
 You can typically find me over on twitter, [@mxsawyer](https://twitter.com/mxsawyer). 
 ### Contact me
 
-[macleod@macleodsawyer.comm](macleod@macleodsawyer.com)
+[macleod@macleodsawyer.com](macleod@macleodsawyer.com)
 

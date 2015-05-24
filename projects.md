@@ -1,15 +1,43 @@
 ---
 layout: post
-title: Test
+title: Projects
 permalink: /projects/
 image: 'first-post.png'
----
+--- 
+  
+### Current Projects
+  
+CharityDrops.org &#8211;<br>
+A new and better way to easily manage donations.<br>
+Link &#8211; <https://charitydrops.org/>
+  
+GiftYourEnemies.com (January 2015)-<br>
+Be Evil. Wreak Havoc. Send things to your "enemies".<br>
+Link &#8211; <https://giftyourenemies.com/>
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+  
+Mxcleod (April 2012) &#8211;<br>
+Personal blog on tumblr, 100k followers, 2million monthly shares, 20million+ reach.<br>
+Link &#8211; <http://mxcleod.com/>
+  
+Avada Browser (October 2014)-<br>
+An extremely fast web browser, currently rendering at 138% faster than chrome.<br>
+Link &#8211; <https://github.com/macleodsawyer/avadabrowser>
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+AllTeensRelate (August 2014)-<br>
+The #1 most relatable blog for teens on Tumblr. (200k subscribers)
+  
+UptownFunkify (February 2015)-<br>
+Social Experiment - An emergency Uptown Funk play button. (100k unique views in less than five days)<br>
+Link &#8211; <http://uptownfunkify.com/>
+      
+### Past Projects
+    
+DFTBH (2014)-
+Don&#8217;t Forget To Be Happy, a blog devoted to just making people happy.
+      
+Activity+ (acquired by <a href="http://qplus.io">Queue+</a> in June 2014)
+Social analytics, track follower gains, activity, shares, and much more.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
-
-
-Testttt
+Seen (June-August 2014) &#8211;
+Social platform that would delete posts after they reached x amount of views.
