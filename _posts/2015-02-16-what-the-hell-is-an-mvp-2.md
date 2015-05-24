@@ -4,7 +4,7 @@ author: macleod
 layout: post
 permalink: /2015/02/16/what-the-hell-is-an-mvp-2/
 rss_pi_source_url:
-  - http://macleodsawyer.com/2015/02/16/mvp/
+  - /images2015/02/16/mvp/
 categories:
   - Uncategorized
 ---
@@ -80,5 +80,5 @@ Yep! But I gave you a bit more insight into it than just reading &#8220;Minimum 
 &#013;  
 Source: macleodsawyer
 
- [1]: http://macleodsawyer.com/quora.com
- [2]: http://macleodsawyer.com/rss
+ [1]: /imagesquora.com
+ [2]: /imagesrss

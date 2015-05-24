@@ -4,7 +4,7 @@ author: macleod
 layout: post
 permalink: /2015/03/11/6-secrets-to-motivating-yourself-to-work-harder/
 rss_pi_source_url:
-  - http://macleodsawyer.com/2015/03/11/6-secrets-to-motivating-yourself-to-work-harder/
+  - /images2015/03/11/6-secrets-to-motivating-yourself-to-work-harder/
 mashsb_timestamp:
   - 1431921564
 mashsb_shares:
@@ -96,5 +96,5 @@ Follow me on twitter [@mxsawyer][2] and be sure to share this with your friends!
 Have your own &#8220;secrets&#8221;? Share them in the comments below!  
 Source: macleodsawyer
 
- [1]: http://45.55.161.240/wp-content/uploads/2015/03/2015-03-11_10-39-07.png
+ [1]: /images/old/uploads/2015/03/2015-03-11_10-39-07.png
  [2]: https://twitter.com/mxsawyer

@@ -1,8 +1,14 @@
 ---
 layout: default
----
 
-<header id="site-head" class="indexhead" style="background: #000 !important;" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="-35">
+---
+<a href="/"><div class="logo">MS</div></a>
+{% if page.image contains 'https://' | escape or page.image contains 'http://' | escape %}
+<header id="site-head" style="background: url({{ page.image }}) repeat scroll 0px -25px / cover !important;" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="-35">
+{% else  %}
+<header id="site-head" style="background: url({{ site.url }}/images/featured/{{ page.image }}) repeat scroll 0px -25px / cover !important;" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="-35">
+{% endif %}
+
 <div class="header-overlay">
 <div class="header-overlay">
 <div class="navbar-bg"></div>
@@ -19,10 +25,6 @@ layout: default
 		
 <article class="post">
     {{ content }}
-  </div>
-
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
   {% include disqus.html %}

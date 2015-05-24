@@ -18,7 +18,7 @@ If it&#8217;s hard for you to fully admit it (not half-heartily I&#8217;m taking
 
 You don&#8217;t. I can tell you that right now. You don&#8217;t. But if you continue being negative, you will become that person (or worse, *you are that person*). Ask yourself that question as you read this article and every time you say or do something negative. Constantly remind yourself that you don&#8217;t actually enjoy being negative, and that you want to stop.
 
-[<img class="alignnone size-full wp-image-758" src="http://macleodsawyer.com/wp-content/uploads/2015/04/outdoors-compressor.jpg" alt="outdoors-compressor" width="2048" height="1365" />][1]
+[<img class="alignnone size-full wp-image-758" src="/images/old/uploads/2015/04/outdoors-compressor.jpg" alt="outdoors-compressor" width="2048" height="1365" />][1]
 
 # **2. Meditation** 
 
@@ -30,7 +30,7 @@ Just spend fifteen to thirty minutes everyday and just close your eyes, breathe 
 
 There is no real reason why any of that is connected, it&#8217;s just how my mind decided to think. Some time I think about nine hundred different things, and other days I only think about two things.
 
-[<img class="alignnone size-full wp-image-759" src="http://macleodsawyer.com/wp-content/uploads/2015/04/meditation.jpg" alt="meditation" width="4928" height="2858" />][2]
+[<img class="alignnone size-full wp-image-759" src="/images/old/uploads/2015/04/meditation.jpg" alt="meditation" width="4928" height="2858" />][2]
 
 # **3. Write.**
 
@@ -44,9 +44,9 @@ Which one felt better to write? Which one made you feel better about yourself? I
 
 You much prefer writing out things that are easier, things that come more naturally, and in this case writing about the things you love are far easier and make you feel so much better about yourself. This is the same thing for your everyday, if you spend so much of your time being negative about something you will never be able to feel as great as you could be if you were being positive about it.
 
-[<img class="alignnone size-full wp-image-760" src="http://macleodsawyer.com/wp-content/uploads/2015/04/write.jpg" alt="write" width="2560" height="1440" />][3]
+[<img class="alignnone size-full wp-image-760" src="/images/old/uploads/2015/04/write.jpg" alt="write" width="2560" height="1440" />][3]
 
-# **4. Don&#8217;t take everything so serious and stop worrying about things that don&#8217;t matter.** {#strong4donttakeeverythingsoseriousandstopworryingaboutthingsthatdontmatterstrong}
+# **4. Don&#8217;t take everything so serious and stop worrying about things that don&#8217;t matter.**
 
 It&#8217;s easier said than done, but if you get into the habit of not stressing about every other problem you will be able to accomplish so much more, be so much more productive, and just feel that much better about yourself.
 
@@ -58,7 +58,7 @@ We as a society spend too much time focusing on issues that shouldn&#8217;t matt
 
 You should just stop caring about the things that don&#8217;t matter, to learn to care more about the things that do. If you stop being so negative about the things that don&#8217;t matter to you it will feel better because instead of spending that time being hateful, you are instead replacing that time with being kind and nice to yourself and others.
 
-[<img class="alignnone wp-image-747 size-large" src="http://macleodsawyer.com/wp-content/uploads/2015/04/download-compressor-1024x681.jpg" alt="download-compressor" width="640" height="426" />][4]
+[<img class="alignnone wp-image-747 size-large" src="/images/old/uploads/2015/04/download-compressor-1024x681.jpg" alt="download-compressor" width="640" height="426" />][4]
 
 I&#8217;m writing this all from personal experience and what worked for me.
 
@@ -68,7 +68,7 @@ I hope these tips can help. I really do, they helped me and several of my close 
 
 Be a better person, I know that you can be. All it takes is to start today, and I promise you will be.
 
- [1]: http://macleodsawyer.com/wp-content/uploads/2015/04/outdoors-compressor.jpg
- [2]: http://macleodsawyer.com/wp-content/uploads/2015/04/meditation.jpg
- [3]: http://macleodsawyer.com/wp-content/uploads/2015/04/write.jpg
- [4]: http://macleodsawyer.com/wp-content/uploads/2015/04/download-compressor.jpg
+ [1]: /images/old/uploads/2015/04/outdoors-compressor.jpg
+ [2]: /images/old/uploads/2015/04/meditation.jpg
+ [3]: /images/old/uploads/2015/04/write.jpg
+ [4]: /images/old/uploads/2015/04/download-compressor.jpg

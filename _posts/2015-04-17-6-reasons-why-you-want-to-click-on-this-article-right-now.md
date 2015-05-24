@@ -37,7 +37,7 @@ By the time you finished reading it, you have all all ready invested your precio
 
 Did I forget to mention it follows a formula?
 
-[<img class="alignnone size-full wp-image-729" src="http://macleodsawyer.com/wp-content/uploads/2015/04/screen-shot-2013-12-18-at-4-25-23-pm.png" alt="screen-shot-2013-12-18-at-4-25-23-pm" width="300" height="228" />][1]
+[<img class="alignnone size-full wp-image-729" src="/images/old/uploads/2015/04/screen-shot-2013-12-18-at-4-25-23-pm.png" alt="screen-shot-2013-12-18-at-4-25-23-pm" width="300" height="228" />][1]
 
 [Nathalie Nahai][2] crafted this beautiful formula that you just proved that it&#8217;s right.
 
@@ -73,7 +73,7 @@ And that something different in the number is that it isn&#8217;t a &#8220;10&#8
 
 I chose &#8220;6&#8221; reasons both for the ease of writing it, it is just one above 5, and I just really like the number.
 
-[<img class="aligncenter wp-image-727 size-full" src="http://macleodsawyer.com/wp-content/uploads/2015/04/six-fingers.jpg" alt="six-fingers" width="440" height="365" />][3]
+[<img class="aligncenter wp-image-727 size-full" src="/images/old/uploads/2015/04/six-fingers.jpg" alt="six-fingers" width="440" height="365" />][3]
 
 &nbsp;
 
@@ -115,8 +115,8 @@ I know I said 6, but you know what you made it this far you deserve a seventh.
 
 Follow me on twitter <a href="http://twitter.com/mxsawyer" target="_blank">@mxsawyer</a>, and don&#8217;t forget to trap your friends by sharing this article!
 
- [1]: http://macleodsawyer.com/wp-content/uploads/2015/04/screen-shot-2013-12-18-at-4-25-23-pm.png
+ [1]: /images/old/uploads/2015/04/screen-shot-2013-12-18-at-4-25-23-pm.png
  [2]: http://www.slideshare.net/nathalienahai/the-secret-psychology-behind-persuasive-content
- [3]: http://macleodsawyer.com/wp-content/uploads/2015/04/six-fingers.jpg
+ [3]: /images/old/uploads/2015/04/six-fingers.jpg
  [4]: /newsletter
  [5]: http://xkcd.com/1283/

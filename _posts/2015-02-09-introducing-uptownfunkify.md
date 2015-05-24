@@ -4,7 +4,7 @@ author: macleod
 layout: post
 permalink: /2015/02/09/introducing-uptownfunkify/
 rss_pi_source_url:
-  - http://macleodsawyer.com/2015/02/09/uptownfunkify/
+  - /images2015/02/09/uptownfunkify/
 categories:
   - Uncategorized
 ---

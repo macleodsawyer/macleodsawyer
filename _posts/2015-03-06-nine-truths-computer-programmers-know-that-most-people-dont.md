@@ -4,7 +4,7 @@ author: macleod
 layout: post
 permalink: /2015/03/06/nine-truths-computer-programmers-know-that-most-people-dont/
 rss_pi_source_url:
-  - http://macleodsawyer.com/2015/03/06/nine-truths-computer-programmers-know-that-most-people-dont/
+  - /images2015/03/06/nine-truths-computer-programmers-know-that-most-people-dont/
 categories:
   - Uncategorized
 ---
@@ -79,7 +79,7 @@ Not something you would like to hear someone say while out, now is it? *(and if 
 It&#8217;s not as gory as one would think, programs are written like a hierarchy. With the parent managing the processes below them.
 
 <center>
-  <br /> <img class=" aligncenter" src="http://45.55.161.240/wp-content/uploads/2015/03/Parent-Child.gif" alt="" /><br />
+  <br /> <img class=" aligncenter" src="/images/old/uploads/2015/03/Parent-Child.gif" alt="" /><br />
 </center>
 
   

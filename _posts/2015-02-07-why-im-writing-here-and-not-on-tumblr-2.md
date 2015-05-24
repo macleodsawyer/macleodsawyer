@@ -2,11 +2,12 @@
 title: 'Why I&#039;m writing here, and not on tumblr.'
 author: macleod
 layout: post
-permalink: /2015/02/07/why-im-writing-here-and-not-on-tumblr-2/
+permalink: /2015/02/07/why-im-writing-here-and-not-on-tumblr/
 rss_pi_source_url:
-  - http://macleodsawyer.com/2015/02/06/tumblr/
+  - /images2015/02/06/tumblr/
 categories:
   - Uncategorized
+image: 'first-post.png'
 ---
 I come from a tumblr background &#8211; I currently run over 15 blogs, I have nearly half a million followers on tumblr, and manage around 10,000,000+ shares monthly. Every time I make a post on tumblr I know that it will immediately get shares and responses within seconds and let me tell you, **its absolutely fantastic**.
 

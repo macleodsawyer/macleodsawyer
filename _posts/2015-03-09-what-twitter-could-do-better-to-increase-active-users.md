@@ -4,7 +4,7 @@ author: macleod
 layout: post
 permalink: /2015/03/09/what-twitter-could-do-better-to-increase-active-users/
 rss_pi_source_url:
-  - http://macleodsawyer.com/2015/03/08/ways-twitter-could-be-better-and-bring-in-more-active-users/
+  - /images2015/03/08/ways-twitter-could-be-better-and-bring-in-more-active-users/
 categories:
   - Uncategorized
 ---
@@ -88,7 +88,7 @@ Have any questions, thoughts, or anything else? Leave them in the comments below
 
 **Also, be sure to follow me on twitter! <a href="https://twitter.com/mxsawyer" target="_blank">@mxsawyer</a>**
 
- [1]: http://45.55.161.240/wp-content/uploads/2015/03/2015-03-08_18-45-43-1.jpg
- [2]: http://45.55.161.240/wp-content/uploads/2015/03/2015-03-08_18-57-29.png
- [3]: http://45.55.161.240/wp-content/uploads/2015/03/2015-03-08_19-02-49.png
- [4]: http://45.55.161.240/wp-content/uploads/2015/03/2015-03-08_19-11-59.png
+ [1]: /images/old/uploads/2015/03/2015-03-08_18-45-43-1.jpg
+ [2]: /images/old/uploads/2015/03/2015-03-08_18-57-29.png
+ [3]: /images/old/uploads/2015/03/2015-03-08_19-02-49.png
+ [4]: /images/old/uploads/2015/03/2015-03-08_19-11-59.png
