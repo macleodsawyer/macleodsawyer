@@ -6,7 +6,7 @@ layout: default
 {% if page.image contains 'https://' | escape or page.image contains 'http://' | escape %}
 <header id="site-head" style="background: url({{ page.image }}) repeat scroll 0px -25px / cover !important;" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="-35">
 {% else  %}
-<header id="site-head" style="background: url({{ site.url }}/images/featured/{{ page.image }}) repeat scroll 0px -25px / cover !important;" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="-35">
+<header id="site-head" style="background: url(/images/featured/{{ page.image }}) repeat scroll 0px -25px / cover !important;" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="-35">
 {% endif %}
 
 <div class="header-overlay">
