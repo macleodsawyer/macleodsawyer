@@ -7,7 +7,7 @@ rss_pi_source_url:
   - /images2015/02/06/tumblr/
 categories:
   - Uncategorized
-image: 'first-post.png'
+image: 'tumblr.gif'
 ---
 I come from a tumblr background &#8211; I currently run over 15 blogs, I have nearly half a million followers on tumblr, and manage around 10,000,000+ shares monthly. Every time I make a post on tumblr I know that it will immediately get shares and responses within seconds and let me tell you, **its absolutely fantastic**.
 
@@ -24,6 +24,8 @@ No, because on tumblr you will always have that fear that you staff could at any
 Owning your own blog, hosted on your own server, ran by yourself and no one else, creates a sense of security of always knowing that I won&#8217;t be censored, that my account won&#8217;t be terminated due to a hack (lost nearly 200,000 followers two months ago for this very reason), or that I won&#8217;t wake up one day and discover that I lost 800 followers because I reblogged the wrong post onto my main blog instead of my sideblog. 
 
 On top of all of this, it&#8217;s just far easier to write longform articles and thoughts here than on tumblr. 
+
+{% include ads.html %}
 
 > How is this any different to writing long text posts on tumblr?
 
@@ -44,6 +46,3 @@ Thanks for reading my first longform blog post on my new (non-tumblr) blog, you 
 You can follow me on tumblr over at <http://mxcleod.com/>
 
 Please share this on Tumblr (you know I will), Twitter, and Facebook!
-
-&#013;  
-Source: macleodsawyer

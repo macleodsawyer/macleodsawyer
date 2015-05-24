@@ -13,10 +13,11 @@ categories:
   - Uncategorized
 tags:
   - clickbait
+
+image: 'clickbait.png'
 ---
 Try to prove me wrong. This article is 100% clickbait, and you will want to click on it right now or else you won&#8217;t ever find out what is inside this post right now (and trust me, you&#8217;ll want to know).
 
-<!--more-->
 
 # 1. Clickbait works. 
 
@@ -52,6 +53,8 @@ The human need to know everything about anything is a great tool to getting peop
 We all want to know more, we want to know more to make our lives better &#8211; and for some people this article may do just that, but for most you just won&#8217;t care.
 
 Knowledge is power. The more we know, the better our life ***should*** be, because the more we know the better we will be able to change and adapt to anything in our way.
+
+{% include ads.html %}
 
 Not knowing anything is a pain in the ass, have you ever been in a room full of people that are talking about a specific topic and you&#8217;re just sitting there thinking &#8220;What the hell is going on? What does that mean? What does that do?&#8221; and then later you go and research it, or even better sit on your phone and research every thing that comes up as they bring it up? I bet you have.
 
@@ -89,11 +92,7 @@ As you read the title on your news feeds, on your dashboards, [email][4], messen
 
 You wanted to prove to yourself you knew everything. That you were the great person that you like to think that you are. Well truth be told I knew you were going to do that, so I put reason right in here.
 
-&nbsp;
-
-
-
-&nbsp;
+{% include ads.html %}
 
 # 6. Fake urgency.
 

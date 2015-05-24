@@ -7,6 +7,8 @@ rss_pi_source_url:
   - /images2015/03/08/ways-twitter-could-be-better-and-bring-in-more-active-users/
 categories:
   - Uncategorized
+
+image: 'twitter.jpg'
 ---
 I initially posted this a tweetstorm, but have decided to elaborate more on it.
 
@@ -27,6 +29,8 @@ Some people may shoot me for saying this &#8211; but twitter needs to drop the 1
 ## Launch a standalone app. 
 
 This would solve so many issues, Twitter should launch a companion app for iPhone and Android, on top of having massaging in the main app they need a seperate app. Have the users be able to login with their twitter, and be displayed with a conversation list immediatley upon opening. Teenagers and young adults will love the fact that they can converse quickly without having another account for something, and something they can just *open* and not be bothered with a feed. I mean why else would Facebook do it?
+
+{% include ads.html %}
 
 ## This will cause teenagers to use Facebook messenger less. 
 
@@ -50,6 +54,8 @@ This drives my friends and I insane, we can quote the tweets in the app, saving 
 
 ![][2]  
 If you opened up the playing field here, and allowed both in the web version we would love to use Twitter (a little more) when we don&#8217;t have our phones on us, and are browsing on our laptops.
+
+{% include ads.html %}
 
 ## Again&#8230; the messaging&#8230; 
 

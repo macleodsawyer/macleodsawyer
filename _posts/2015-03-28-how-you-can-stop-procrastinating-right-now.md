@@ -11,6 +11,8 @@ cardImageHeight:
   - 150
 categories:
   - Uncategorized
+  
+image: 'tools.jpg'
 ---
 We all suffer from procrastination. It&#8217;s not news, and it drives us all insane.
 

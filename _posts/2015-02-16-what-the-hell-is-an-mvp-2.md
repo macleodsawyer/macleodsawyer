@@ -7,6 +7,8 @@ rss_pi_source_url:
   - /images2015/02/16/mvp/
 categories:
   - Uncategorized
+  
+image: 'chairs.jpg'
 ---
 And no that is **not** some reference to basketball or something.
 
@@ -54,6 +56,8 @@ And thats it!
 
 That&#8217;s the purpose get it down the most miminal and minimum version you can! Which in this case, just spits out the newest articles on the selected blogs! 
 
+{% include ads.html %}
+
 ### Second Word: [V]iable 
 Now, If this was VMP, this would be so much easier to write because of the insight I&#8217;m about to give you for the M in M.V.P.
 
@@ -77,8 +81,7 @@ Figured out the acronym yet? Well here, I&#8217;ll give it to you:
 
 Yep! But I gave you a bit more insight into it than just reading &#8220;Minimum Viable Product&#8221;. I have tricked you into fully understanding the concept (at least I hope) than just reading the three words and then continuing on your way *doing it all wrong* like I did. 
 
-&#013;  
-Source: macleodsawyer
+{% include ads.html %}
 
  [1]: /imagesquora.com
  [2]: /imagesrss

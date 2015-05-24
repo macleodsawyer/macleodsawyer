@@ -20,6 +20,8 @@ tags:
   - life
   - robots
   - tech
+  
+image: 'ai.jpg'
 ---
 We are currently trying too hard to build an AI that is equal to humans, and in some cases trying to build one that is better.
 

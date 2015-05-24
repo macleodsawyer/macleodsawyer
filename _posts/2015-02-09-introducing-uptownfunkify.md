@@ -7,6 +7,7 @@ rss_pi_source_url:
   - /images2015/02/09/uptownfunkify/
 categories:
   - Uncategorized
+image: 'bruno.gif'
 ---
 Sounds pretty funky right? 
 
@@ -38,10 +39,6 @@ I said Uptown Funk you up, Uptown Funk you up
 Uptown Funk you up, Uptown Funk you up 
 
 ### [Don’t believe me just click it (come on)][1] 
-
-
-
-&#013;  
-Source: macleodsawyer
+{% include ads.html %}
 
  [1]: http://uptownfunkify.com/

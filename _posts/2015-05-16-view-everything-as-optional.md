@@ -18,6 +18,8 @@ mashsb_jsonshares:
 categories:
   - life
   - optional
+  
+image: 'optional.jpg'
 ---
 Every week I throw up a quote or a saying that comes to mind on this whiteboard that sits on my desk.
 
@@ -37,6 +39,9 @@ Don&#8217;t just immediately say no because that&#8217;s what everyone is pressu
 Don&#8217;t just immediately say yes because that&#8217;s what everyone is pressuring you into saying.
 
 Instead think beyond that, maybe it doesn&#8217;t deserve an answer, maybe you honestly just don&#8217;t care enough, maybe you&#8217;ll realize it isn&#8217;t vital to your life.
+
+
+{% include ads.html %}
 
 <h1 style="text-align: center;">
   Think of everything as optional.
@@ -87,6 +92,8 @@ You fell into what society has told you &#8211; that there are only predetermine
 Think of all those chances you could&#8217;ve had if you had just looked into the question more.
 
 It will fuel your doubt, it certainly fuels mine.
+
+{% include ads.html %}
 
 But, the chance at being more right instead of wrong because you looked into it, because you went beyond the question and found a new option that wasn&#8217;t on the board, will certainly make yourself feel better.
 

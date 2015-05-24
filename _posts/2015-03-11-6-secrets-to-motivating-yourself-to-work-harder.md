@@ -13,6 +13,8 @@ mashsb_jsonshares:
   - '{"total":0}'
 categories:
   - Uncategorized
+  
+image: 'highway.jpg'
 ---
 Ever feel hopeless? Just don&#8217;t have the motivation that you need to get anything done? Most people at one point feel this way, that nothing is working, that what you&#8217;re doing with your life is useless, that what you once thought was great &#8211; turned out not to be.
 

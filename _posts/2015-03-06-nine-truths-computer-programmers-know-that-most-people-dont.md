@@ -7,6 +7,7 @@ rss_pi_source_url:
   - /images2015/03/06/nine-truths-computer-programmers-know-that-most-people-dont/
 categories:
   - Uncategorized
+image: 'doom.jpeg'
 ---
 Computer programmers know far more about computers and code than the average person does, and honestly some of it’s scary.
 
@@ -34,6 +35,8 @@ Now, the 25% number may be less, may be more, depends on the developer and what 
 
 A programmer is one who deals with algorithms and design principles, not the one who repairs a computer. We may know how the internal workings of a computer work, how code fits together (or rather hacked together as I explained in Fact #1). But, that does not mean we know how to fix hardware. That does not mean we know how to fix that issue you&#8217;re having with chrome that makes it crash everytime you open it, or why your computer is always overheating and the battery dying. Computers programmers, at the least know how to program computers, not fix them.
 
+{% include ads.html %}
+
 <h1 id="fact4" style="text-align: center;">
   Fact #4
 </h1>
@@ -51,6 +54,8 @@ Most of programming is spent sleeping, walking around, staring out the window, o
 This is important in every programmers life. Counting starts at 0 &#8211; your &#8220;1&#8221; is my &#8220;0&#8221;, your &#8220;10&#8221; is my &#8220;9&#8221;. The reason why this is because computer programming is all about efficiency, and even small improvements in efficiency can make big differences at scale.
 
 Zero-based numbering or index origin = 0 \[1\]\[2\] is a way of numbering in which the initial element of a sequence is assigned the index 0, rather than the index 1 as is typical in everyday non-programming circumstances. [(source)][5]
+
+{% include ads.html %}
 
 <h1 id="fact6" style="text-align: center;">
   Fact #6
