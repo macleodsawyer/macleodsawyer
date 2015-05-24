@@ -520,11 +520,10 @@ img[alt="main-image"]{display:none;}
   border-radius: 25%;
 }
 
-footer{
-	clear:both;
-	width:100%;
-	padding:25px 0;
-	float:left;
+.footer{
+  font-size: 16px;
+  text-align: center;
+  margin: 50px;
 }
 
 #social-links{
