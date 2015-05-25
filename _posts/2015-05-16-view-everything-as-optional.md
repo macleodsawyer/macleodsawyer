@@ -29,6 +29,8 @@ But this has been in the back of my head for a long time.
 
 When I say &#8220;view everything as optional&#8221; I am talking about your decisions, your life, everything around you.
 
+{% include ads.html %}
+
 Did you have to get that coffee? Buy that shirt? Go out with friends? Tell your friends you weren&#8217;t going out because of other pressing matters (like watching Daredevil all night like I did)?
 
 Everyone says that saying &#8220;No&#8221; is the best option. Truth be told that advice is horrible. You shouldn&#8217;t always say no to every question thrown at you, you won&#8217;t go anywhere good with that, you just can&#8217;t be successful that way, you&#8217;ll have to say yes eventually.  
