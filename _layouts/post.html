@@ -2,7 +2,16 @@
 layout: default
 ---
 
-<a href="/"><div class="logo">{{ site.alt_name }}</div></a>
+<div class="logo"><a href="/">{{ site.alt_name }} </a> </div>
+
+<div class="share-btn">
+<a href="https://twitter.com/intent/tweet?text={{ page.title }}" data-counturl="{{ site.url}}{{ page.url }}" class="twitter-share-button" data-via="mxsawyer" data-related="mxsawyer">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+<div class="fb-share-button" data-href="{{ site.url}}{{ page.url}}" data-layout="button_count"></div> 
+
+</div>
+
 {% if page.image contains 'https://' | escape or page.image contains 'http://' | escape %}
 <header id="site-head" style="background: url({{ page.image }}) repeat scroll 0px -25px / cover !important;" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="-35">
 {% else  %}
@@ -15,6 +24,7 @@ layout: default
 <div class="cf"></div>
 <div id="title">
 		<h1>{{ page.title }}</h1>
+        <h2>{{ page.date | date: '%B %d, %Y' }}</h2>
 	</div>
 </div>
 </header>

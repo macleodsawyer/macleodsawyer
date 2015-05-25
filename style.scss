@@ -130,9 +130,10 @@ header {
 .logo {
     position: fixed;
     overflow: hidden;
-    text-align: center;
     vertical-align: middle;
+    text-align: center;
     font-size: 35px;
+    padding-left: 10px;
     color: #F3BC15;
     width: 100%;
     background: #FFF none repeat scroll 0% 0%;
@@ -140,6 +141,25 @@ header {
     left: 0px;
     z-index: 99999;
     border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+}
+
+.logo a {
+    border-bottom: none;
+    box-shadow: none;
+}
+
+.share-btn {
+    position:fixed;
+    right:10px; 
+    top:15px;
+    z-index: 99999;
+}
+
+
+.fb_iframe_widget {
+  display: inline-block;
+  position: relative;
+  line-height: 15px;
 }
 
 
@@ -234,6 +254,7 @@ header h2{
 	letter-spacing:2px;
 	font-style: italic;
 	font-weight:100;
+    color:white;
 }
 .header-overlay {
     background: rgba(0,0,0,0.3);
@@ -678,8 +699,25 @@ padding: 0px;
   width: 100%;
   display: inline;
     }
+}
     
 
+
+    
+@media (max-width:555px) {
+.share-btn {
+    position: fixed;
+    z-index: 99999;
+    width: 100%;
+    background: white;
+    bottom: 0px;
+      top: inherit;
+  right: inherit;
+    margin: 0 auto;
+    padding-top: 4px;
+    text-align: center;
+    border-top: 1px solid rgba(0,0,0,0.05);
+}
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

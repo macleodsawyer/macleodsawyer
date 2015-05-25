@@ -3,12 +3,6 @@ title: Rethinking AI
 author: macleod
 layout: post
 permalink: /2015/05/20/rethinking-ai/
-twitterCardType:
-  - summary_large_image
-cardImageWidth:
-  - 280
-cardImageHeight:
-  - 150
 categories:
   - AI
   - technology
