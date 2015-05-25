@@ -148,6 +148,13 @@ header {
     box-shadow: none;
 }
 
+.logo a:hover {
+    background:none;
+    border-bottom: none;
+    box-shadow: none;
+    
+}
+
 .share-btn {
     position:fixed;
     right:10px; 
