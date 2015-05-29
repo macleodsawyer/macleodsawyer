@@ -111,7 +111,6 @@ header {
 	background-size:cover;
 	background-attachment:fixed;
 	margin-bottom:15px;
-	  margin-top: 35px;
 }
 
 .menu-fixed {
@@ -128,7 +127,7 @@ header {
 
 
 .logo {
-    position: fixed;
+    position: relative;
     overflow: hidden;
     vertical-align: middle;
     text-align: center;
@@ -158,7 +157,7 @@ header {
 .share-btn {
     position:fixed;
     right:10px; 
-    top:15px;
+    bottom:5px;
     z-index: 99999;
 }
 
@@ -245,6 +244,11 @@ header {
 
 .ads {
   width: 98.5%;
+}
+
+.ads-banner {
+    text-align: center;
+    background: rgb(244, 244, 244) none repeat scroll 0% 0%;
 }
 
 header h1{
