@@ -7,14 +7,14 @@ image: 'index.png'
 <main id="main" class="site-main" role="main">
 
 {% if page.image contains 'https://' | escape or page.image contains 'http://' | escape %}
-<header id="site-head" style="background: url({{ page.image }}) repeat scroll 0px -25px / cover !important;  padding: 4.5% 2%; " data-stellar-background-ratio="0.5" data-stellar-vertical-offset="-35">
+<header id="site-head" style="background: url({{ page.image }}) repeat scroll 0px -25px / cover !important;" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="-35">
 {% else  %}
-<header id="site-head" style="background: url(/images/featured/{{ page.image }}) repeat scroll 0px -25px / cover !important;  padding: 4.5% 2%;" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="-35">
+<header id="site-head" style="background: url(/images/featured/{{ page.image }}) repeat scroll 0px -25px / cover !important;" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="-35">
 {% endif %}
 <div class="header-overlay">
 <div class="navbar-bg"></div>
 <div class="cf"></div>
-<div id="title">
+<div id="title" style="padding: 4.5% 2%;">
 		<h1>17 year old blogger, developer, entrepreneur, minimalist, and nerd.</h1>
 	</div>
 </div>
