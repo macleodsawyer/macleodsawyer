@@ -14,6 +14,8 @@ description: 17 year old blogger, developer, entrepreneur, minimalist, and nerd.
 # Flags below are optional
 #
 
+pages: ./_pages
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
