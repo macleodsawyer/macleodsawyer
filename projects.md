@@ -27,7 +27,7 @@ I make music sometimes.<br>
 Link: <http://soundcloud.com/macleodsawyer>
 
 Avada Browser (October 2014)-<br>
-An extremely fast web browser, currently rendering at 138% faster than chrome.<br>
+An extremely fast web browser, currently rendering 138% faster than chrome.<br>
 Link &#8211; <https://github.com/macleodsawyer/avadabrowser>
 
 AllTeensRelate (August 2014)-<br>
@@ -39,15 +39,15 @@ Link &#8211; <http://uptownfunkify.com/>
       
 ### Past Projects
 
-GiftYourEnemies.com (January 2015)-<br>
+GiftYourEnemies.com (January 2015)<br>
 Be Evil. Wreak Havoc. Send things to your "enemies".<br>
 Link &#8211; <https://giftyourenemies.com/>
 
-DFTBH (2014)-<br>
+DFTBH (2014)<br>
 Don&#8217;t Forget To Be Happy, a blog devoted to just making people happy.
       
-Activity+ (acquired by <a href="http://qplus.io">Queue+</a> in June 2014)
+Activity+ (acquired by <a href="http://qplus.io">Queue+</a> in June 2014)<br>
 Social analytics, track follower gains, activity, shares, and much more.
 
-Seen (June-August 2014) &#8211;
+Seen (June-August 2014)<br>
 Social platform that would delete posts after they reached x amount of views.
