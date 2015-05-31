@@ -1,5 +1,5 @@
 ---
-title: Email sucks&#44; here's how to use it better.
+title: Email sucks&#44; here's how you can use it better.
 layout: post
 image: https://unsplash.com/photos/kZvmEpyfiJs/download
 ---
