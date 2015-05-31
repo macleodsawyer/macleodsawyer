@@ -1,7 +1,7 @@
 ---
-title: Email sucks&#44; here's how you can use it better.
+title: Email sucks, here's how you can make it better.
 layout: post
-image: https://unsplash.com/photos/kZvmEpyfiJs/download
+image: 'tech.jpg'
 ---
    
 You've sat down and tried to go through your email and it's just a mess of thousands of conversations people have tried to start with you, you have started with others, and just thread after thread of spammy newsletters (whether they are actually spam is a whole different point). 
