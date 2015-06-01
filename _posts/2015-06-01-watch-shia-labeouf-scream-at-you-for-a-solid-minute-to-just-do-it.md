@@ -14,6 +14,8 @@ The video will make you feel absolutely amazing.
 
 The above video was taken from his 30 minute long inspiration speech (embedded below). The entire video is incredibly inspirational with words of wisdom, poetry, motivational quotes, breathing exercises, stories, humor, and screaming to just do it. 
 
+{% include ads.html %} 
+
 I hope you watch the entire thing because honestly, it really great. 
 
 <center>
