@@ -12,11 +12,11 @@ The video will make you feel absolutely amazing.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nuHfVn_cfHU" frameborder="0" allowfullscreen></iframe>
 </center>
 
-The above video was taken from his 30 minute long inspiration speech (embedded below). The entire video is incredibly inspirational with words of wisdom, poetry, motivational quotes, breathing exercises, stories, humor, and screaming to just do it. 
+The above video was taken from his 30 minute long inspiration speech (embedded below). The entire video is strangely inspirational with words of wisdom, poetry, motivational quotes, breathing exercises, stories, humor, and screaming to just do it. 
 
 {% include ads.html %} 
 
-I hope you watch the entire thing because honestly, it really great. 
+I hope you watch the entire thing because honestly, it's really great. 
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DvVUBZy_MHE" frameborder="0" allowfullscreen></iframe>
