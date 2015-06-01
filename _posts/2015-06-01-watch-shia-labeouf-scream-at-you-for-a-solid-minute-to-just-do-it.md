@@ -1,5 +1,5 @@
 ---
-title: Watch Shia Labeouf scream at you for a solid minute to 'just do it'.
+title: Watch Shia LaBeouf scream at you for a solid minute to 'just do it'.
 image: 'shia.jpg'
 layout: post
 ---
