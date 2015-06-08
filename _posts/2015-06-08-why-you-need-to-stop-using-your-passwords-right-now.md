@@ -11,7 +11,7 @@ Passwords are some of the most outdated, flawed, and vulnerable methods to prote
 
 A password in its simplest form is simply, a word. And a single word is one of the easiest things to crack, and the most used objects in a password. 
 
-Sure you can fIlL tHeM wItH aLl sorts of random uppercase and lowercase letters, and yes you can even throw in some num63r5 in their and make it harder to crack. And don't get me wrong they do slightly, But, they still just aren't secure. 
+Sure you can fIlL tHeM wItH aLl sorts of random uppercase and lowercase letters, and yes you can even throw in some num63r5 in there and make it harder to crack. And don't get me wrong they do slightly, But, they still just aren't secure. 
 
 And you need your passwords to be as secure as possible. After all your entire life is online now, and if someone really wants to get access to your information then using a password could just be opening the door wide open for them to abuse. 
 
