@@ -5,7 +5,7 @@ image: 'pssword.jpg'
 
 ---
 
-Seriously right now, after all the current data stickups and vulnerabilities being used, you need to stop using your current password, right now. 
+You need to stop using your current password, right now. 
 
 Passwords are some of the most outdated, flawed, and vulnerable methods to protect your identity and information. So stop using them. 
 
