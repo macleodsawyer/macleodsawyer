@@ -1,7 +1,7 @@
 ---
 title: Why you need to stop using passwords right now.
 layout: post
-image: 'http://imgs.xkcd.com/comics/password_strength.png)'
+image: 'pssword.jpg'
 
 ---
 
