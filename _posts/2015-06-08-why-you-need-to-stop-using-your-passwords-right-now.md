@@ -1,11 +1,11 @@
 ---
-title: Why you need to stop using passwords right now.
+title: Why you need to stop using your password right now.
 layout: post
 image: 'pssword.jpg'
 
 ---
 
-You need to stop using your password, right now. 
+Seriously right now, after all the current data stickups and vulnerabilities being used, you need to stop using your current password, right now. 
 
 Passwords are some of the most outdated, flawed, and vulnerable methods to protect your identity and information. So stop using them. 
 
