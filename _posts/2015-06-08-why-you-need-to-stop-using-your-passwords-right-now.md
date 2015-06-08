@@ -15,6 +15,7 @@ Sure you can fIlL tHeM wItH aLl sorts of random uppercase and lowercase letters,
 
 And you need your passwords to be as secure as possible. After all your entire life is online now, and if someone really wants to get access to your information then using a password could just be opening the door wide open for them to abuse. 
 
+{% include ads.html %} 
 
 ## Passwords are out, passphrases are in.
 
@@ -37,6 +38,8 @@ When I started writing this I remembered a comic xkcd produced a long time ago, 
 You see the math in the second and fifth panel? Yeah it's still true. 
 
 Passwords are inherently evil, so seriously just stop using them. 
+
+{% include ads.html %} 
 
 > But, but, it would take longer to type!
 
