@@ -12,9 +12,9 @@ A new and better way to donate to the causes that you love and cherish.<br>
 Link &#8211; <https://charitydrops.org/>
 
 Mxcleod Media (April 2012) &#8211;<br>
-Network of blogs started, curated by, or currently owned by me.<br>
+Network of blogs started, curated by, or currently owned by me. Total: 500k+ Subscribers - ~100-150million impressions a month.<br><br>
 Mxcleod &#8211; Personal Blog, 100k+ subscribers, 20-40 million unique impressions a month.<br>
-Link &#8211; <http://mxcleod.com/><br>
+Link &#8211; <http://mxcleod.com/><br><br>
 AllTeensRelate &#8211; #1 Most relatable blog for teens - 200k subscribers - 50million+ unique impressions a month.<br>
 Link &#8211; <http://alllteensrelate.tumblr.com/><br>
 DFTBH &#8211; Don't Forget To Be Happy, a blog that focused on motivation - Shutdown December 2014<br>
