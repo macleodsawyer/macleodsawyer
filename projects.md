@@ -14,9 +14,9 @@ Link &#8211; <https://charitydrops.org/>
 Mxcleod Media (April 2012) &#8211;<br>
 Network of blogs started, curated by, or currently owned by me.<br>
 Mxcleod &#8211; Personal Blog, 100k+ subscribers, 20-40 million unique impressions a month.<br>
-Link &#8211; <http://mxcleod.com/>
+Link &#8211; <http://mxcleod.com/><br>
 AllTeensRelate &#8211; #1 Most relatable blog for teens - 200k subscribers - 50million+ unique impressions a month.<br>
-Link &#8211; <http://alllteensrelate.tumblr.com/>
+Link &#8211; <http://alllteensrelate.tumblr.com/><br>
 DFTBH &#8211; Don't Forget To Be Happy, a blog that focused on motivation - Shutdown December 2014<br>
 
 Read|Less (coming soon)<br>
