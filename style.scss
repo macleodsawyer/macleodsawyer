@@ -48,8 +48,8 @@ body,html {
 	height:100%;
 	line-height: 1.6;
 	margin-bottom: 30px;
-    font-size: 20px;
-	font-family: "Lato", sans-serif !important;
+  font-size: 20px;
+  font-family: "Open Sans", "Helvetica Neue",sans-serif !important;
 }
 
 body {
@@ -120,26 +120,23 @@ header {
 .sidebar-toggle {
     font-size: 32px;
     color:white;
-	text-shadow:0 1px 5px rgba(0,0,0,.2);
+	  text-shadow:0 1px 5px rgba(0,0,0,.2);
     cursor: pointer;
     display:none;
 }
 
 
 .logo {
-    position: relative;
-    overflow: hidden;
-    vertical-align: middle;
-    text-align: center;
-    font-size: 35px;
-    padding-left: 10px;
-    color: #F3BC15;
-    width: 100%;
-    background: #FFF none repeat scroll 0% 0%;
-    top: 0px;
-    left: 0px;
     z-index: 99999;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+    left: 0px;
+    top: 0px;
+    color: #FFF;
+    position: relative;
+    margin-left: 25px;
+    font-family: "Open Sans";
+    font-size: 35px;
+    font-weight: 700;
+    width: 100%;
 }
 
 .logo a {
@@ -237,9 +234,10 @@ header {
   display: block;
   z-index: 9;
   width: 100%;
-  padding: 6.5% 2%;
+ padding: 4.5% 2% 8.5%;
   text-align: center;
   text-shadow: 0 1px 5px rgba(0,0,0,.2);
+  font-family: "Lato";
 }
 
 .ads {
@@ -258,6 +256,7 @@ header h1{
 	padding: 0px 20px;
 	letter-spacing: 2px;
 	color: #FFF;
+  font-family: "Lato", sans;
 }
 
 header h2{
@@ -268,7 +267,7 @@ header h2{
     color:white;
 }
 .header-overlay {
-    background: rgba(0,0,0,0.3);
+    background: rgba(0,0,0,0.6);
     height: 100%;
     width: 100%;
     z-index: 9999999;
@@ -281,11 +280,17 @@ header h2{
 
 /*Content*/
 .container{
-  max-width: 800px;
+  max-width: 650px;
   margin: 0 auto;
 }
 
-
+.more_posts {
+  padding: 15px 0px;
+color: #aaa;
+border-bottom: 1px solid #f4f4f4;
+margin: 15px 0px;
+font-weight: 100;
+}
 
 #content{
     padding-left: 10px;
@@ -640,6 +645,40 @@ background: rgb(244, 244, 244) none repeat scroll 0% 0%;
 margin-bottom: 30px !important;
 }
 
+.social-share {
+padding: 8px 15px;
+color: #FFF;
+border-radius: 3px;
+font-size: 15px;
+border-bottom: medium none !important;
+box-shadow: none;
+margin: 15px;
+margin-bottom: 20px;
+display: inline-block;
+cursor: pointer;
+}
+
+.social-share:hover {
+    border-bottom: medium none !important;
+box-shadow: none;
+}
+
+.social-twitter {
+background: #55ACEE none repeat scroll 0% 0%;
+color: #FFF;
+}
+
+.social-twitter:hover {
+  background: #55acee;
+}
+
+.social-facebook {
+  background:#3b5998;
+}
+
+.social-facebook:hover {
+  background:   #3b5998;
+}
 
 // Index
 
@@ -663,13 +702,13 @@ color: #555;
 padding: 0px;
   text-decoration: none;
   color: #555;
-  font-size: 22px;
+  font-size: 18px;
 }
 
 .recent-posts li .date {
     float: right;
     font-size: 12px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     color: rgba(0, 0, 0, 0.2);
 }
 

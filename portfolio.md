@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Projects
-permalink: /projects/
-image: 'first-post.png'
+title: Portfolio
+permalink: /portfolio/
+image: 'optional.jpg'
 --- 
   
 ### Companies

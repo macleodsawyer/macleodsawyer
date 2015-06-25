@@ -2,8 +2,6 @@
 layout: default
 image: 'index.png'
 ---
-<div class="logo"><a href="/">{{ site.name }}</a></div>
-
 <main id="main" class="site-main" role="main">
 
 {% if page.image contains 'https://' | escape or page.image contains 'http://' | escape %}
@@ -13,8 +11,9 @@ image: 'index.png'
 {% endif %}
 <div class="header-overlay">
 <div class="navbar-bg"></div>
+<div class="logo"><a href="/">{{ site.name }} </a> </div>
 <div class="cf"></div>
-<div id="title" style="padding: 4.5% 2%;">
+<div id="title">
 		<h1>17 year old blogger, developer, entrepreneur, minimalist, and nerd.</h1>
 	</div>
 </div>
@@ -29,7 +28,7 @@ image: 'index.png'
                     <a href="{{ site.baseurl }}{{ post.url }}">
                       <div>
                         <span class="title">{{ post.title }}</span>
-                        <span class="date">{{ post.date | date: "%B %e, %Y" }}</span>
+                        <span class="date">{{ post.date | date: "%B %e" }}</span>
                       </div>
                     </a>
                   </li>

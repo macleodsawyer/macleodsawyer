@@ -2,29 +2,6 @@
 layout: default
 ---
 
-<div class="ads-banner">
-    
-    <ins class="adsbygoogle"
-         style="display:block;max-width:800px;margin: 0 auto;"
-         data-ad-client="ca-pub-7004039348107787"
-         data-ad-slot="9147249750"
-         data-ad-format="auto"></ins>
-    <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-    
-</div>
-
-<div class="logo"><a href="/">{{ site.name }} </a> </div>
-
-<div class="share-btn">
-<a href="https://twitter.com/intent/tweet?text={{ page.title }}" data-counturl="{{ site.url}}{{ page.url }}" class="twitter-share-button" data-via="mxsawyer" data-related="mxsawyer">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
-<div class="fb-share-button" data-href="{{ site.url}}{{ page.url}}" data-layout="button_count"></div> 
-
-</div>
-
 {% if page.image contains 'https://' | escape or page.image contains 'http://' | escape %}
 <header id="site-head" style="background: url({{ page.image }}) repeat scroll 0px -25px / cover !important;" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="-35">
 {% else  %}
@@ -32,9 +9,9 @@ layout: default
 {% endif %}
 
 <div class="header-overlay">
-<div class="header-overlay">
 <div class="navbar-bg"></div>
 <div class="cf"></div>
+<div class="logo"><a href="/">{{ site.name }} </a> </div>
 <div id="title">
 		<h1>{{ page.title }}</h1>
         <h2>{{ page.date | date: '%B %d, %Y' }}</h2>
@@ -49,13 +26,31 @@ layout: default
 <article class="post">
     {{ content }}
     <center>
-    Share this post with your friends:<br> <a href="https://twitter.com/intent/tweet?text={{ page.title }}" data-counturl="{{ site.url}}{{ page.url }}" class="twitter-share-button" data-via="mxsawyer" data-related="mxsawyer">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    Share this post with your friends:<br> 
 
-<div class="fb-share-button" data-href="{{ site.url}}{{ page.url}}" data-layout="button_count"></div> 
+    <a class="social-share social-twitter" data-via="mxsawyer" data-related="mxsawyer" onclick="window.open('https://twitter.com/intent/tweet?text={{ page.title }}%20http://macleodsawyer.com{{ page.url }}%20by%20@mxsawyer', 'newwindow', 'width=500, height=500');">Share on Twitter</a>
+
+    <a class="social-share social-facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=http://macleodsawyer.com{{ page.url }}', 'newwindow', 'width=500, height=500');"> Share on Facebook</a>
    </center>
-    {% include subscribe.html %}
   </div>
 
   {% include disqus.html %}
+
+  <div class="container" id="content">
+  <p class="more_posts">MORE POSTS</p>
+          {% for post in site.posts %}
+            <ul class="recent-posts">
+                <li>
+                    <a href="{{ site.baseurl }}{{ post.url }}">
+                      <div>
+                        <span class="title">{{ post.title }}</span>
+                        <span class="date">{{ post.date | date: "%B %e" }}</span>
+                      </div>
+                    </a>
+                  </li>
+                            
+          {% endfor %}
+            
+</div>
 </article>
+
