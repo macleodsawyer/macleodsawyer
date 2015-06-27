@@ -18,7 +18,7 @@ mashsb_jsonshares:
 categories:
   - life
   - optional
-  
+
 image: 'optional.jpg'
 ---
 Every week I throw up a quote or a saying that comes to mind on this whiteboard that sits on my desk.
@@ -49,7 +49,7 @@ Instead think beyond that, maybe it doesn&#8217;t deserve an answer, maybe you h
   Think of everything as optional.
 </h1>
 
-Think of every time you have ever had to answer something, every time someone has told you something is final, that it can&#8217;t be fixed, that it just &#8220;isn&#8217;t possible&#8221;, or that you&#8217;re &#8220;getting ahead of yourself&#8221;.
+Think of every time you have ever had to answer something, every time someone has told you something is final or that it can&#8217;t be fixed, that it just &#8220;isn&#8217;t possible&#8221;, or that you&#8217;re &#8220;getting ahead of yourself&#8221;.
 
 Take what they say under consideration, but realize nothing is final when making decisions, realize that everything around you is completely optional.
 

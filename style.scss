@@ -22,8 +22,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -34,7 +34,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -75,10 +75,10 @@ table {
 a{  border-bottom: 1px solid #F3BC15;
   box-shadow: 0px -2px 0px #F3BC15 inset;
   text-decoration: none;
-  color:inherit;  
+  color:inherit;
   transition: all 0.2s;
   }
-  
+
   a:hover {
 	  background:rgba(243, 188, 21, 0.5);
 	  border-bottom: 1px solid rgba(243, 188, 21, 0.5);
@@ -148,12 +148,12 @@ header {
     background:none;
     border-bottom: none;
     box-shadow: none;
-    
+
 }
 
 .share-btn {
     position:fixed;
-    right:10px; 
+    right:10px;
     bottom:5px;
     z-index: 99999;
 }
@@ -171,7 +171,7 @@ header {
 	text-decoration:none;
 	font-size:32px;
 	font-weight:700;
-    
+
 	text-shadow:0 1px 5px rgba(0,0,0,.2);
 	font-family: 'Lato', sans-serif !important;
     display: inline;
@@ -179,7 +179,7 @@ header {
 
 #blog-title a {
     color:#fff;
-	text-decoration:none;  
+	text-decoration:none;
 }
 
 
@@ -319,18 +319,18 @@ font-weight: 100;
     padding: 5px 7px;
 	color:#F3BC15;
 	border-bottom: none;
- 	box-shadow: none;	
+ 	box-shadow: none;
 }
 
 .menu ul a:hover {
 	background:none;
-	color: #daa912;	
+	color: #daa912;
 }
 
 article{
 	color:#555;
     margin-top: -25px;
-} 
+}
 
 articlePost {
   	margin-top: -90px;
@@ -424,8 +424,8 @@ article h6{
 	font-family: 'Lato', sans-serif !important;
 }
 
-article p{
-	color:#555;
+article p {
+	color: rgba(0,0,0,0.8);
 	margin-bottom:30px;
 }
 
@@ -481,7 +481,7 @@ article blockquote2{
   font-weight: 100;
   font-style: italic;
   max-width: 900px;
-  margin-left: -50px; 
+  margin-left: -50px;
     margin-right: -50px;
   text-align: center;
 }
@@ -739,12 +739,12 @@ padding: 0px;
         margin-left: 0;
         margin-right: 0;
     }
-    
-    #title { 
+
+    #title {
           width: 100%;
-        
+
     }
-        
+
 }
 
 @media (max-width:742px) {
@@ -754,17 +754,17 @@ padding: 0px;
     article {
   font-size: 16px;
     }
-    
+
     #blog-title {
   text-align: center;
   width: 100%;
   display: inline;
     }
 }
-    
 
 
-    
+
+
 @media (max-width:555px) {
 .share-btn {
     position: fixed;
