@@ -1,5 +1,5 @@
 ---
-title: How to stop dreaming about success and just do it in three steps. 
+title: How to stop dreaming about success and just do it in three steps.
 layout: post
 image: 'mtns.jpg'
 
@@ -27,7 +27,7 @@ You have to think about the end goal in the long term and not about the short te
 
 You should have the mindset that there is no other option than to win.
 
-# **2. Life is as a game.**
+# **2. Life is a game.**
 
 You have one life and there are no power-ups or "one-ups" to give you another chance.
 
@@ -55,7 +55,7 @@ Make a choice, and always know that 'no' is always a valid choice.
 
 The power of 'no' is underrated and typically frowned upon in society. We are all made to believe that we should make everyone happy and by doing so we have to say 'yes'.
 
-Stop trying to make others happy for a moment and work for yourself. 
+Stop trying to make others happy for a moment and work for yourself.
 
 Read my post on [viewing everything as optional.](http://macleodsawyer.com/2015/05/16/view-everything-as-optional/)
 
@@ -67,4 +67,4 @@ Only say 'yes' when you absolutely need to, when you are 100% devoted to it, whe
 
 ---
 
-These three steps to achieving success are easy, simple, and can  put you on the right track to doing what you love and get you to where you want to be in life. 
+These three steps to achieving success are easy, simple, and can  put you on the right track to doing what you love and get you to where you want to be in life.
