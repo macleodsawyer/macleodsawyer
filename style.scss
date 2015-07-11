@@ -795,14 +795,12 @@ padding: 0px;
 }
 
 .header-ads {
-	background: rgba(0,0,0,0.3);
-	position: absolute;
-	bottom: 0px;
-	left: 0px;
+	background: rgba(0, 0, 0, 0.3) none repeat scroll 0% 0%;
 	width: 100%;
 	margin: 0px auto;
 	display: block;
-	max-height:25%;
+	height: 100%;
+	padding-top: 50px;
 }
 
 
