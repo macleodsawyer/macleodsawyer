@@ -106,11 +106,16 @@ a{  border-bottom: 1px solid #F3BC15;
 
 /*Header*/
 header {
-	width:100%;
-	background: #474747 no-repeat center;
-	background-size:cover;
-	background-attachment:fixed;
-	margin-bottom:15px;
+	width: 30%;
+	margin-bottom: 15px;
+	bottom: 0px;
+	left: 0px;
+	top: 0px;
+	position: fixed;
+	font-size: 16px;
+	z-index: 15555;
+	height: 100%;
+	background: transparent url("/images/header.jpg") repeat scroll 0px 0px / cover !important;
 }
 
 .menu-fixed {
@@ -235,7 +240,7 @@ header {
 	z-index: 9;
 	width: 100%;
 	padding: 4.5% 2%;
-	text-align: center;
+	text-align: right;
 	text-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2);
 	font-family: "Lato";
 }
@@ -245,6 +250,8 @@ header {
 	text-decoration: none;
 	border: none;
 	box-shadow: none;
+	text-align:center;
+	font-size:35px;
 }
 
 #title a:hover {
@@ -277,6 +284,7 @@ header h2{
 	font-style: italic;
 	font-weight:100;
     color:white;
+		padding: 0px 20px;
 }
 
 .index-title {
@@ -308,7 +316,7 @@ header h2{
 	clear: both;
 	color: #2E2E2E;
 	font-weight: 700;
-	font-size: 45px;
+	font-size: 35px;
 }
 
 .header-overlay {
@@ -342,11 +350,17 @@ font-weight: 100;
     padding-right: 5px;
     margin-bottom: -70px;
 	  line-height: 1.8;
+		margin-left: 35%;
+}
+
+#primary {
+	margin-top: 50px;
 }
 
 .menu {
-    text-align: center;
+    text-align: right;
 	margin-bottom: 50px;
+	padding: 0px 20px;
 }
 
 .menu ul {
@@ -484,9 +498,8 @@ article p {
 }
 
 article img{
-  width: 100%;
-  height: 100%;
   margin: 0 auto;
+	max-width: 100%;
 }
 
 article iframe {
@@ -781,7 +794,23 @@ padding: 0px;
     color: #FD7F05;
 }
 
+.header-ads {
+	background: rgba(0,0,0,0.3);
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	margin: 0px auto;
+	display: block;
+	max-height:40%;
+}
 
+
+@media (max-width:1078px) {
+	#title a {
+		font-size: 25px;
+	}
+}
 @media (max-width:900px) {
     article blockquote {
         margin-left: 0;
@@ -795,19 +824,36 @@ padding: 0px;
 
 }
 
-@media (max-width:742px) {
-    .header-nav {
-        display:none;
- }
+@media (max-width:800px) {
+    header {
+			width: 100%;
+			position: relative;
+			height: auto;
+			text-align: center !important;
+		}
+
     article {
   font-size: 16px;
     }
 
-    #blog-title {
-  text-align: center;
-  width: 100%;
-  display: inline;
-    }
+		.menu {
+			padding: 5px 0px;
+			margin-bottom: 0;
+			text-align: center;
+		}
+
+		#title {
+			text-align: center;
+		}
+
+		#content {
+			margin-left: auto;
+		}
+
+		.header-ads {
+				display: none;
+		}
+
 }
 
 

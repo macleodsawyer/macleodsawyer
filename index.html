@@ -6,7 +6,17 @@ image: 'index.png'
 {% include header.html %}
 
 <div class="container" id="content">
-
+  <!-- Responsiver banner -->
+  <ins class="adsbygoogle"
+      style="display:block;"
+      data-ad-client="ca-pub-7004039348107787"
+      data-ad-slot="9147249750"
+      data-ad-format="auto"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+  <div id="primary" class="content-area">
+  		<main id="main" class="site-main" role="main">
           {% for post in site.posts %}
             <ul class="recent-posts">
                 <li>
@@ -20,4 +30,7 @@ image: 'index.png'
 
           {% endfor %}
 
+          {% include footer.html %}
+</div>
+</div>
 </div>
