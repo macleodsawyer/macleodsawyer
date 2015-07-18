@@ -21,7 +21,7 @@ Now why would I do this? For two reasons.
 I was bored, I woke up, wanted to test out making chrome extensions - made a text replacer based on [cloud to butt](https://github.com/panicsteve/cloud-to-butt).
 
 ## 2. I wanted to draw attention to a good cause. 
-I wanted to draw attention [Children International](http://children.org), which works to help children all around the world.
+I wanted to draw attention to [Children International](http://children.org), which works to help children all around the world.
 
 Children International improves the lives of children and youth by providing basic necessities, critical benefits and services, programs that support long-term development and opportunities that prepare them for success.
 
