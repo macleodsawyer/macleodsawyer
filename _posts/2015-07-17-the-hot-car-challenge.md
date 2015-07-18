@@ -2,7 +2,7 @@
 title: 'The Hot Car Challenge'
 author: macleod
 layout: post
-image: 'tumblr.gif'
+image: 'kars.png'
 ---
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lnU9uvRe4GA" frameborder="0" allowfullscreen></iframe>
