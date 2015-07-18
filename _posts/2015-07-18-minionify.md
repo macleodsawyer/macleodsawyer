@@ -36,4 +36,4 @@ When you donate to Children International you help:
 
 Please [click here](https://www.children.org/help-a-child) and help the children of the world by donating. 
 
-<button onclick="chrome.webstore.install()" id="install-button">Add to Chrome</button>
+<a onclick="chrome.webstore.install()" id="install-button">Add to Chrome</button>
