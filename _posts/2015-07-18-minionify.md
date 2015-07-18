@@ -3,12 +3,6 @@ published: false
 ---
 
 
----
-title: Minionify for a good cause [Extension]
-chrome: "https://chrome.google.com/webstore/detail/dphhbchdbcliiamoodkidbhgdfbfhnla"
-permalink: "/projects/minionify"
----
-
 Minions currently grace every part of life thanks to the brilliant marketing team behind the [Minions Movie]([http://www.minionsmovie.com/]) which came out earlier this summer. 
 
 I decided to build a chrome extension that replaces all related words of "children" to "minion" for several reasons. 
