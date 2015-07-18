@@ -9,7 +9,11 @@ layout: post
 
 Minions currently grace every part of life thanks to the brilliant marketing team behind the [Minions Movie]([http://www.minionsmovie.com/]) which came out earlier this summer. 
 
-I decided to build a chrome extension that replaces all related words of "children" to "minion" for several reasons. 
+Because of the popularity of it, I decided to build a chrome extention called "Minionify (Children to Minion)" that you can download now on the Google Chrome store.
+
+The extention replaces all related words of "children" to "minion" for several reasons. 
+
+Now why would I do this? For two reasons.
 
 ## 1. It's funny. 
 I was bored, I woke up, wanted to test out making chrome extensions - made a text replacer based on [cloud to butt](https://github.com/panicsteve/cloud-to-butt).
