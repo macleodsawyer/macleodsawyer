@@ -1,10 +1,11 @@
 ---
 published: true
-title: "Minionify for a good cause [Extension]"
+title: Minionify for a good cause
 chrome: "https://chrome.google.com/webstore/detail/dphhbchdbcliiamoodkidbhgdfbfhnla"
 permalink: /projects/minionify
 layout: post
 ---
+
 
 
 Minions currently grace every part of life thanks to the brilliant marketing team behind the [Minions Movie]([http://www.minionsmovie.com/]) which came out earlier this summer. 
