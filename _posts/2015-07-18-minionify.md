@@ -1,5 +1,9 @@
 ---
 published: false
+title: "Minionify for a good cause [Extension]"
+chrome: "https://chrome.google.com/webstore/detail/dphhbchdbcliiamoodkidbhgdfbfhnla"
+permalink: /projects/minionify
+layout: post
 ---
 
 
