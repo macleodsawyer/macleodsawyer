@@ -4,6 +4,7 @@ title: Minionify for a good cause
 chrome: "https://chrome.google.com/webstore/detail/dphhbchdbcliiamoodkidbhgdfbfhnla"
 permalink: /projects/minionify
 layout: post
+image: "https://matteroffactsblog.files.wordpress.com/2013/08/despicable_me_2_minions-1920x1080.jpg"
 ---
 
 
