@@ -15,9 +15,10 @@ A new and better way to donate to the causes that you love and cherish.<br>
 Link &#8211; <https://charitydrops.org/>
 
 MxcleodMedia &#8211;<br>
-Network of blogs on tumblr started, curated by, or currently owned by me.<br> Total: 500k+ Subscribers - ~100-150million impressions a month.<br><br>
-[Mxcleod](http://mxcleod.com/) &#8211; Personal Blog, 100k+ subscribers, 20-40 million unique impressions a month.<br>
-Others: [AllTeensRelate](http://alllteensrelate.tumblr.com/) &#8211; [YourFriendlyReminder](http://yourfriendlyreminder.tumblr.com/) &#8211; [ThingsFittingPerfectly](http://ThingsFittingPerfectly.tumblr.com/)<br>
+Network of blogs on tumblr started, curated by, or currently owned by me.<br> Total: 500k+ Subscribers - ~100-150million impressions a month.<br>
+Blogs: [Mxcleod](http://mxcleod.com/) &#8211; 
+[AllTeensRelate](http://alllteensrelate.tumblr.com/) &#8211; 
+[YourFriendlyReminder](http://yourfriendlyreminder.tumblr.com/) &#8211; [ThingsFittingPerfectly](http://ThingsFittingPerfectly.tumblr.com/)<br>
 
 Read|Less (coming soon)<br>
 Your news. Just Shorter.<br>
