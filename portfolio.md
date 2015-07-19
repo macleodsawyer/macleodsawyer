@@ -2,8 +2,11 @@
 layout: post
 title: Portfolio
 permalink: /portfolio/
-image: 'optional.jpg'
---- 
+image: optional.jpg
+published: true
+---
+
+ 
   
 ### Companies
   
@@ -14,10 +17,7 @@ Link &#8211; <https://charitydrops.org/>
 MxcleodMedia (April 2012) &#8211;<br>
 Network of blogs started, curated by, or currently owned by me.<br> Total: 500k+ Subscribers - ~100-150million impressions a month.<br><br>
 Mxcleod &#8211; Personal Blog, 100k+ subscribers, 20-40 million unique impressions a month.<br>
-Link &#8211; <http://mxcleod.com/><br><br>
-AllTeensRelate &#8211; #1 Most relatable blog for teens - 200k subscribers - 50million+ unique impressions a month.<br><br>
-Link &#8211; <http://alllteensrelate.tumblr.com/><br><br>
-DFTBH &#8211; Don't Forget To Be Happy, a blog that focused on motivation - Shutdown December 2014<br>
+Others: [AllTeensRelate](http://alllteensrelate.tumblr.com/) &#8211 DFTBH (Don't Forget To Be Happy) &#8211; - [YourFriendlyReminder](http://yourfriendlyreminder.tumblr.com/) - [ThingsFittingPerfectly](http://ThingsFittingPerfectly.tumblr.com/)<br>
 
 Read|Less (coming soon)<br>
 Your news. Just Shorter.<br>
@@ -27,7 +27,7 @@ Activity+ (acquired by <a href="http://qplus.io">Queue+</a> in June 2014)<br>
 Social analytics, track follower gains, activity, shares, and much more.
 
 GiftYourEnemies (January 2015)<br>
-Be Evil. Wreak Havoc. Send things to your "enemies". $800 worth of sales first month.<br>
+Be Evil. Wreak Havoc..<br>
 Link &#8211; <https://giftyourenemies.com/>
 
 Seen (June-August 2014)<br>
@@ -53,4 +53,8 @@ Let's make your files smaller and your life faster.<br>
 
 NoPo (No Post)<br>
 Hides posts from being seen on your tumblr blogs theme by tag.<br>
-Link &#8211; <https://github.com/macleodsawyer/NoPo
+Link &#8211; <https://github.com/macleodsawyer/NoPo>
+
+Minionify (Children to Minion) [July 2015]
+Turns any mention of children related key words to minion. For a good cause.
+Read More - <http://macleodsawyer.com/projects/minionify>
