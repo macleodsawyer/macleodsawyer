@@ -16,7 +16,7 @@ Link &#8211; <https://charitydrops.org/>
 
 MxcleodMedia &#8211;<br>
 Network of blogs on tumblr started, curated by, or currently owned by me.<br> Total: 500k+ Subscribers - ~100-150million impressions a month.<br>
-Blogs: [Mxcleod](http://mxcleod.com/) &#8211; 
+[Mxcleod](http://mxcleod.com/) &#8211; 
 [AllTeensRelate](http://alllteensrelate.tumblr.com/) &#8211; 
 [YourFriendlyReminder](http://yourfriendlyreminder.tumblr.com/) &#8211; [ThingsFittingPerfectly](http://ThingsFittingPerfectly.tumblr.com/)<br>
 
