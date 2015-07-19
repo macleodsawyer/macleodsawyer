@@ -14,7 +14,7 @@ CharityDrops.org &#8211;<br>
 A new and better way to donate to the causes that you love and cherish.<br>
 Link &#8211; <https://charitydrops.org/>
 
-MxcleodMedia &#8211;<br>
+MxMedia &#8211;<br>
 Network of blogs on tumblr started, curated by, or currently owned by me.<br> Total: 500k+ Subscribers - ~100-150million impressions a month.<br>
 [Mxcleod](http://mxcleod.com/) &#8211; 
 [AllTeensRelate](http://alllteensrelate.tumblr.com/) &#8211; 
