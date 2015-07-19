@@ -17,7 +17,7 @@ Link &#8211; <https://charitydrops.org/>
 MxcleodMedia (April 2012) &#8211;<br>
 Network of blogs started, curated by, or currently owned by me.<br> Total: 500k+ Subscribers - ~100-150million impressions a month.<br><br>
 Mxcleod &#8211; Personal Blog, 100k+ subscribers, 20-40 million unique impressions a month.<br>
-Others: [AllTeensRelate](http://alllteensrelate.tumblr.com/) &#8211 DFTBH (Don't Forget To Be Happy) &#8211; - [YourFriendlyReminder](http://yourfriendlyreminder.tumblr.com/) - [ThingsFittingPerfectly](http://ThingsFittingPerfectly.tumblr.com/)<br>
+Others: [AllTeensRelate](http://alllteensrelate.tumblr.com/) &#8211; [YourFriendlyReminder](http://yourfriendlyreminder.tumblr.com/) &#8211; [ThingsFittingPerfectly](http://ThingsFittingPerfectly.tumblr.com/)<br>
 
 Read|Less (coming soon)<br>
 Your news. Just Shorter.<br>
@@ -55,6 +55,6 @@ NoPo (No Post)<br>
 Hides posts from being seen on your tumblr blogs theme by tag.<br>
 Link &#8211; <https://github.com/macleodsawyer/NoPo>
 
-Minionify (Children to Minion) [July 2015]
-Turns any mention of children related key words to minion. For a good cause.
-Read More - <http://macleodsawyer.com/projects/minionify>
+Minionify (Children to Minion) [July 2015]<br>
+Turns any mention of children related key words to minion. For a good cause.<br>
+Read More - <http://macleodsawyer.com/projects/minionify><br>
