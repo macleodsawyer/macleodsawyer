@@ -33,7 +33,6 @@ Link &#8211; <https://giftyourenemies.com/>
 Seen (June-August 2014) &#8211;<br>
 Social platform that would delete posts after they reached x amount of views.
 
-
 ### Projects
 
 Macleod Sawyer (Music) &#8211;<br>
