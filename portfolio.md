@@ -14,9 +14,9 @@ CharityDrops.org &#8211;<br>
 A new and better way to donate to the causes that you love and cherish.<br>
 Link &#8211; <https://charitydrops.org/>
 
-MxcleodMedia (April 2012) &#8211;<br>
-Network of blogs started, curated by, or currently owned by me.<br> Total: 500k+ Subscribers - ~100-150million impressions a month.<br><br>
-Mxcleod &#8211; Personal Blog, 100k+ subscribers, 20-40 million unique impressions a month.<br>
+MxcleodMedia &#8211;<br>
+Network of blogs on tumblr started, curated by, or currently owned by me.<br> Total: 500k+ Subscribers - ~100-150million impressions a month.<br><br>
+[Mxcleod](http://mxcleod.com/) &#8211; Personal Blog, 100k+ subscribers, 20-40 million unique impressions a month.<br>
 Others: [AllTeensRelate](http://alllteensrelate.tumblr.com/) &#8211; [YourFriendlyReminder](http://yourfriendlyreminder.tumblr.com/) &#8211; [ThingsFittingPerfectly](http://ThingsFittingPerfectly.tumblr.com/)<br>
 
 Read|Less (coming soon)<br>
