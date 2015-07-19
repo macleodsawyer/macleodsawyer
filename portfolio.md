@@ -7,6 +7,8 @@ published: true
 ---
 
 
+#### Long Term Projects / Companies 
+
 CharityDrops.org &#8211;<br>
 A new and better way to donate to the causes that you love and cherish.<br>
 Link &#8211; <https://charitydrops.org/>
