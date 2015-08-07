@@ -108,7 +108,8 @@
 
 .mc-field-group {
   display: inline-block;
-  width: 50%;
+  width: 60%;
+  margin-right: 5px;
 }
 #mc_embed_signup h2 {padding: 0; margin: 15px 0; font-size: 1.4em; }
 
