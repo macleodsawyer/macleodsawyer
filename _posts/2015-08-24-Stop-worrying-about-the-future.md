@@ -1,7 +1,9 @@
 ---
 published: true
 title: Stop worrying about the future.
+layout: post
 ---
+
 
 Stop worrying about things that won't matter in the future.
 
