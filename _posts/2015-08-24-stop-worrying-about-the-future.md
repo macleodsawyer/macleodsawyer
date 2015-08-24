@@ -2,7 +2,9 @@
 published: true
 title: Stop worrying about the future.
 layout: post
+image: "https://images.unsplash.com/photo-1423589989400-cc0270157ed0?q=80&fm=jpg&s=888e3d6b8d1340caf4bfb40eb606d0b0"
 ---
+
 
 
 Stop worrying about things that won't matter in the future.
