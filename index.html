@@ -1,36 +1,11 @@
 ---
 layout: default
-image: 'index.png'
 ---
 
-{% include header.html %}
+  <div class="intro">
+    <h1>Macleod Sawyer</h1>
+    <h2>Blogger, developer, entrepreneur, and minimalist.</h2>
+  </div>
+{% include newsletter.html %}
 
-<div class="container" id="content">
-  <!-- Responsiver banner -->
-  <ins class="adsbygoogle"
-      style="display:block;"
-      data-ad-client="ca-pub-7004039348107787"
-      data-ad-slot="9147249750"
-      data-ad-format="auto"></ins>
-  <script>
-  (adsbygoogle = window.adsbygoogle || []).push({});
-  </script>
-  <div id="primary" class="content-area">
-  		<main id="main" class="site-main" role="main">
-          {% for post in site.posts %}
-            <ul class="recent-posts">
-                <li>
-                    <a href="{{ site.baseurl }}{{ post.url }}">
-                      <div>
-                        <span class="title">{{ post.title }}</span>
-                        <span class="date">{{ post.date | date: "%B %e" }}</span>
-                      </div>
-                    </a>
-                  </li>
-
-          {% endfor %}
-
-          {% include footer.html %}
-</div>
-</div>
-</div>
+{% include archives.html %}

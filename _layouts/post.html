@@ -2,63 +2,27 @@
 layout: default
 ---
 
-{% include header.html %}
-
-<div class="container" id="content" role="main">
-	<!-- Responsiver banner -->
-	<ins class="adsbygoogle"
-			style="display:block;margin: 10px 0;"
-			data-ad-client="ca-pub-7004039348107787"
-			data-ad-slot="9147249750"
-			data-ad-format="auto"></ins>
-	<script>
-	(adsbygoogle = window.adsbygoogle || []).push({});
-	</script>
-<div id="primary" class="content-area">
-		<main id="main" class="site-main" role="main">
-
-<article class="post">
-	<div class="post-meta">
-		<h1>{{ page.title }}</h1>
-		{% if page.date %}    <!-- Responsiver banner -->
-		{% endif %}
-
-	</div>
-    {{ content }}
-    <center>
-<div class='shareaholic-canvas' data-app='share_buttons' data-app-id='18488531'></div>
-   </center>
-
-   <div class="post-meta">
-   <h2>Published on {{ page.date | date: '%B %d, %Y' }}</h2>
- </div>
- <ins class="adsbygoogle"
-      style="display:block;margin: 10px 0px;"
-      data-ad-client="ca-pub-7004039348107787"
-      data-ad-slot="9147249750"
-      data-ad-format="auto"></ins>
- <script>
- (adsbygoogle = window.adsbygoogle || []).push({});
- </script>
+<div class="intro">
+  <h1>{{ page.title }}</h1>
+  <h3>by <a href="/">Macleod Sawyer</a></h3>
+    <a href="https://twitter.com/mxsawyer" class="twitter-follow-button" data-show-count="true"
+    data-show-screen-name="false">@mxsawyer</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
   </div>
+  <div class="ads">
+    Advertisement<!-- Responsiver banner -->
+  	<ins class="adsbygoogle"
+  			style="display:block;margin: 10px 0;background:blue;"
+  			data-ad-client="ca-pub-7004039348107787"
+  			data-ad-slot="9147249750"
+  			data-ad-format="auto"></ins>
+  	<script>
+  	(adsbygoogle = window.adsbygoogle || []).push({});
+  	</script>
+  </div>
+<article>
+{{content}}
+</article>
 
-  {% include disqus.html %}
-
-  <div>
-  <p class="more_posts">READ MORE:</p>
-          {% for post in site.posts %}
-            <ul class="recent-posts">
-                <li>
-                    <a href="{{ site.baseurl }}{{ post.url }}">
-                      <div>
-                        <span class="title">{{ post.title }}</span>
-                        <span class="date">{{ post.date | date: "%B %e" }}</span>
-                      </div>
-                    </a>
-                  </li>
-
-          {% endfor %}
-
-</div>
-
-{% include footer.html %}
+<h4>Over <u>500,000 people</u> follow my blogs, why don't you join them?</h4>
+{% include newsletter.html %}

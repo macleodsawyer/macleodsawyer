@@ -1,0 +1,11 @@
+#chrome-btn {
+  padding: 25px;
+  background: #F3BC15 none repeat scroll 0% 0%;
+  color: #FFF;
+  font-weight: 700;
+  border-radius: 2px;
+  text-align: center;
+  margin: 0px auto;
+  display: block;
+  cursor: pointer;
+}
