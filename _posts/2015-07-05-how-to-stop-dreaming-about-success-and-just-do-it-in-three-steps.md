@@ -3,6 +3,7 @@ title: How to stop dreaming about success and just do it in three steps.
 layout: post
 image: 'mtns.jpg'
 
+permalink: /2015/07/05/how-to-stop-dreaming-about-success-and-just-do-it-in-three-steps/
 ---
 
 Right now with our access to the Internet, our ability to learn anything we need at the tips of our fingertips (literally) we can achieve success better, faster, smarter, and easier than any other generation in history.
