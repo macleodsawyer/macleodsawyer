@@ -8,10 +8,10 @@
       <link rel="chrome-webstore-item" href="{{page.chrome}}">
 
       <meta property="og:title" content="{{ page.title }}">
-      <meta property="og:type" content="article">
+      <meta property="og:type" content="website">
       <meta property="og:url" content="{{ site.url }}{{ page.url}}">
       <meta property="og:description" content="{{ page.excerpt | strip_html }}">
-      <meta property="og:site_name" content="{{ site.name }}">
+      <meta property="og:site_name" content="Macleod Sawyer">
 
       {% if page.date %}
         <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
@@ -26,7 +26,7 @@
       <meta name="twitter:creator" content="@mxsawyer">
       <meta name="twitter:title" content="{{ page.title }}">
       <meta name="twitter:description" content="{{ page.excerpt| strip_html }}">
-      <link rel="canonical" href="{{ site.url }}{{ page.url}}">
+      <link rel="canonical" href="http://macleodsawyer.com{{ page.url | replace:'index.html','' }}" />
 
       {% if page.image contains 'https://' | escape or page.image contains 'http://' | escape %}
       <meta name="twitter:image" content="{{ page.image }}">
