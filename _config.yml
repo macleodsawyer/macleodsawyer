@@ -8,3 +8,5 @@ defaults:
 permalink: /:title/
 
 include: ['_pages']
+
+url: http://macleodsawyer.com
