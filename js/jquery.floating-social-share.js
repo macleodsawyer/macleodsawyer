@@ -1,8 +1,10 @@
 /*!
- * jQuery Floating Social Share Plugin v1.0.1
- * http://burakozdemir.co.uk
+ * Responsive-Floating-Share-Buttons-for-Jekyll
+ * http://macleodsawyer.com/
  *
- * Copyright 2015 Burak Özdemir - <https://github.com/ozdemirburak>
+ * Jekyll Repo: https://github.com/macleodsawyer/Responsive-Floating-Share-Buttons-for-Jekyll
+ * Jekyll Version Copyright 2015 Macleod Sawyer - <https://github.com/macleodsawyer>
+ * Original Copyright 2015 Burak Özdemir - <https://github.com/ozdemirburak>
  * Released under the MIT license
  */
 
@@ -15,7 +17,7 @@
             buttons: ["facebook", "twitter", "google-plus", "linkedin"],
             title: document.title,
             url: window.location.href,
-            text: "share with ",
+            text: "Share with ",
             description: $("meta[name='description']").attr("content"),
             popup_width: 400,
             popup_height: 300

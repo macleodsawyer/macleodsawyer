@@ -6,15 +6,12 @@
 </div>
 
 <script>
-$("body").floatingSocialShare({
-place: "top-left", // alternatively top-right
-counter: true, // set to false for hiding the counters of pinterest, facebook, twitter, linkedin and google-plus
-buttons: ["facebook","twitter","google-plus","linkedin","stumbleupon","envelope"], // all of the currently avalaible social buttons
-title: "{{ page.title }}", // your title, default is current page's title
-url: window.location.href,  // your url, default is current page's url
-text: "Share with ", // the title of a tags
-description: $("meta[name='description']").attr("content"), // your description, default is current page's description
-popup_width: 400, // the sharer popup width, default is 400px
-popup_height: 300 // the sharer popup height, default is 300px
-});
+  $("body").floatingSocialShare({
+    place: "top-left", // alternatively top-right
+    counter: true, // set to false for hiding the counters of pinterest, facebook, twitter, linkedin and google-plus
+    buttons: ["facebook","twitter","google-plus","linkedin","stumbleupon","envelope"], // all of the currently avalaible social buttons
+    title: "{{ page.title }}", // your title, default is current page's title
+    url: window.location.href,  // your url, default is current page's url
+    text: "Share with ", // the title of a tags
+  });
 </script>
