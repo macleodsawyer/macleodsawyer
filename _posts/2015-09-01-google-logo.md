@@ -36,7 +36,7 @@ The last update to the app was in December of 2013, and it had that icon for a y
 What does the app icon look like?
 
 <center>
-<img src="https://lh6.ggpht.com/SK6qynd5-RDcys_3anR6QLocnjY_o9ZbDMmKtTnrAiQ3zNuWVFbkE2N15IyNBGBUhdkH=w300">,br>This.
+<img src="https://lh6.ggpht.com/SK6qynd5-RDcys_3anR6QLocnjY_o9ZbDMmKtTnrAiQ3zNuWVFbkE2N15IyNBGBUhdkH=w300"><br>This.
 </center>
 
 What does the new Google logo look like?
