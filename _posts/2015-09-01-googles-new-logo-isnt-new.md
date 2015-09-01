@@ -8,7 +8,7 @@ layout: post
 
 
 
-Google recently announced their new logo, saying its a new age with this whisical childish (in a good way) Google doodle. 
+Google recently announced their new logo, saying its a new age with this whisical childish (in a good way) Google doodle, but it's not new.
 <center>
 <img src="https://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.2-hp.gif" style="width:100%;">
 </center>
