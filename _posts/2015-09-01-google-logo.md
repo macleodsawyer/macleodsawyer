@@ -9,7 +9,7 @@ layout: post
 
 Google recently announced their new logo, saying its a new age with this whisical childish (in a good way) Google doodle. 
 <center>
-<img src="https://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.2-hp.gif" style="width:100%;">
+<img src="https://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.2-hp.gif">
 </center>
 
 According to the announcement on the [official Google blog](http://googleblog.blogspot.com/2015/09/google-update.html) on blogspot (yeah remember that?) the Google logo is brand new. 
