@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 title: "Google's new logo isn't new."
 image: "https://cdn1.vox-cdn.com/thumbor/R-jufXIyY3MhYnzjKTtNt2mdemM=/0x0:2012x1341/800x536/cdn0.vox-cdn.com/uploads/chorus_image/image/47070706/google2.0.0.jpg"
 layout: post
 ---
+
 
 Google recently announced their new logo, saying its a new age with this whisical childish (in a good way) Google doodle. 
 
