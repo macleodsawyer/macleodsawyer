@@ -21,7 +21,7 @@ Maybe to the public, but not to them. This logo has been in their vaults for ove
 
 It's not new, not to Google atleast, or well anyone that uses the Google Authenticator App.
 
-The Google Authenticator app always was sdtrange to me, because all other official Google apps had their colors, had their font, had something well "google-like" about them. 
+The Google Authenticator app always was strange to me, because all other official Google apps had their colors, had their font, had something well "google-like" about them. 
 
 Except the [Google Authenticator app](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en). 
 
