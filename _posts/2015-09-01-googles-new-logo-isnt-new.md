@@ -7,6 +7,7 @@ layout: post
 
 
 
+
 Google recently announced their new logo, saying its a new age with this whisical childish (in a good way) Google doodle. 
 <center>
 <img src="https://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.2-hp.gif" style="width:100%;">
@@ -16,9 +17,9 @@ According to the announcement on the [official Google blog](http://googleblog.bl
 
 > Today we’re introducing a new logo and identity family that reflects this reality and shows you when the Google magic is working for you, even on the tiniest screens. As you’ll see, we’ve taken the Google logo and branding, which were originally built for a single desktop browser page, and updated them for a world of seamless computing across an endless number of devices and different kinds of inputs (such as tap, type and talk). 
 
-Maybe to the public, but not to them. I believe this logo has been in their vaults for over 3 years. Why? Because the "G" that they were talking about how that what will be on mobile devices now instead of the big blue "G" that we had yesterday. (R.I.P Big Blue G)
+Maybe to the public, but not to them. This logo has been in their vaults for over 3 years. 
 
-That G? It's not new, not to Google atleast, or well anyone that uses the Google Authenticator App.
+It's not new, not to Google atleast, or well anyone that uses the Google Authenticator App.
 
 The Google Authenticator app always was sdtrange to me, because all other official Google apps had their colors, had their font, had something well "google-like" about them. 
 
