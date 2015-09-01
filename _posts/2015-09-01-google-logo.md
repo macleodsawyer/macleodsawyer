@@ -25,9 +25,9 @@ The Google Authenticator app always was sdtrange to me, because all other offici
 Except the [Google Authenticator app](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en). 
 
 What is the authenticator app? Well it authenticates your logins to Google, and other networks using two-step authentication.
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/17rykTIX_HY?showinfo=0" frameborder="0" allowfullscreen></iframe>
-
+</center>
 The last update to the app was in December of 2013, and it had that icon for a year or so before hand.
 
 What does the app icon look like?
