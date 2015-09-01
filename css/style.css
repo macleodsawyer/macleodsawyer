@@ -138,6 +138,10 @@ body {
   font-weight: 300;
 }
 
+.container article blockquote p {
+    color: rgba(0, 0, 0, 0.4) !important;
+}
+
 .container article hr {
   border:1px solid #F3BC15;
 height: 2px;
