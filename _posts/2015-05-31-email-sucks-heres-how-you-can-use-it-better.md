@@ -1,6 +1,7 @@
 ---
 title: Email sucks, here's how you can make it better.
 layout: post
+permalink: /2015/05/31/email-sucks-heres-how-you-can-use-it-better/
 image: 'tech.jpg'
 ---
    
