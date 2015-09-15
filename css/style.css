@@ -21,7 +21,7 @@ color: rgb(255, 255, 255);
   display:inline-block;
   color: rgb(255, 255, 255);
   font-family: "Raleway";
-  font-weight:300;
+  font-weight: 600;
   text-decoration: none;
   font-size: 16px;
 }
@@ -103,7 +103,7 @@ color: rgb(255, 255, 255);
   font-family: "Open Sans";
   padding: 0px;
   text-decoration: none;
-  color: #555;
+  color: #fff;
   font-size: 18px;
 }
 .container .archives h1{
