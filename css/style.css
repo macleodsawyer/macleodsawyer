@@ -1,4 +1,9 @@
-body {
+html {
+  background: transparent radial-gradient(circle farthest-corner at right bottom , #FFA376, #D26578 32%, #682A84 69%, #241668) repeat scroll left top / 100% 100%;
+color: rgb(255, 255, 255);
+  }
+  
+  body {
   font-family: "Raleway";
 }
 
@@ -14,9 +19,9 @@ body {
 .container .navbar a {
   padding: 10px 15px;
   display:inline-block;
-  color: red;
+  color: rgb(255, 255, 255);
   font-family: "Raleway";
-  font-weight:100;
+  font-weight:300;
   text-decoration: none;
   font-size: 16px;
 }
@@ -35,17 +40,17 @@ body {
 
 .container .intro h1 {
   font-family: "Raleway";
-  font-weight:100;
+  font-weight:900;
   font-size: 3em;
   margin-bottom: 10px;
 }
 
 .container .intro h2 {
-    font-family: "Raleway";
-    font-size:2em;
-    font-weight:100;
-    margin-top:0;
-    color: #ccc;
+  font-family: "Raleway";
+  font-size: 2em;
+  font-weight: 300;
+  margin-top: 0px;
+  color: #CCC;
 }
 
 .container .intro h3 {
@@ -126,7 +131,7 @@ body {
   font-size: 20px;
 }
 .container article p {
-  color: rgba(0, 0, 0, 0.8);
+  color: rgb(255, 255, 255);
   margin-bottom: 30px;
   font-family: "Open Sans"
 }
@@ -150,11 +155,11 @@ box-shadow: 0px -2px 0px #F3BC15 inset;
 }
 
 .container article a {
-  border-bottom: 1px solid rgba(68, 68, 68, .2);
-  color: #444;
-  text-decoration: none;
-  padding-bottom: 0.15em;
+color: #FFF;
+text-decoration: none;
+padding-bottom: 0.15em;
 transition: all 0.2s ease 0s;
+border-bottom: 1px solid #fff;
 }
 
 .container article img {
