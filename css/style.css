@@ -65,8 +65,6 @@ color: rgb(255, 255, 255);
 .container .intro .twitter-follow-button {
   display:inline-block;
   position: absolute !important;
-  height: auto !important ;
-  width: auto !important;
   visibility: visible;
   margin-top: 21px;
   margin-left: 5px;
