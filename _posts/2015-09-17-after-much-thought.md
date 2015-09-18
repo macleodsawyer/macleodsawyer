@@ -5,7 +5,7 @@ image: "http://www.bluchic.com/kunci/wp-content/uploads/2013/05/manifesto-focus.
 layout: post
 ---
 
-I am cutting all projects except for [CharityDrops.org](https:/;/charitydrops.org) as it requires my full attention.
+I am cutting all projects except for [CharityDrops.org](https://charitydrops.org) as it requires my full attention.
 
 All other projects such as Read&#x7c;Less, Avada Browser, The planned podcast, YouTube, and nearly every other side project of mine will be put on the back burner. This *does not* mean I will not go back to them and work on them in the future, this just means they will be on indefinite hold until further notice.
 
