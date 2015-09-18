@@ -19,4 +19,6 @@ The only other 'projects' not being put on hold will be majority of my blogs on 
 
 I need to do this so I can deliver the best experience I can with CharityDrops.
 
-If you want to be alerted to when CharityDrops will launch, enter your email below and join my newsletter! (I would!)
+Want to learn more about CharityDrops? [Click here](https://charitydrops.org).
+
+If you want to know when CharityDrops will launch, enter your email below and join my newsletter! (I would!)
