@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: After much thought...
 image: "http://www.bluchic.com/kunci/wp-content/uploads/2013/05/manifesto-focus.jpg"
 ---
