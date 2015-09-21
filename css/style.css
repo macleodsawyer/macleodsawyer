@@ -196,6 +196,10 @@ transition: all 0.3s;
       transition: all 0.3s;
 }
 
+.twitter-tweet {
+    margin: 0 auto;
+}
+
 #chrome-btn {
   padding: 25px;
   background: #F3BC15 none repeat scroll 0% 0%;
