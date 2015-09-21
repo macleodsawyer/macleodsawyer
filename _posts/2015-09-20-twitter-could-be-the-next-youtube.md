@@ -3,7 +3,7 @@
 title: Twitter could be the next YouTube.
 permalink: /twitter-could-be-the-next-youtube/
 image: 'http://i.imgur.com/gCD5nXW.jpg'
-
+layout: post
 ---
 
 When will big bird take on the giant?
