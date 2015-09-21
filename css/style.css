@@ -38,7 +38,6 @@ color: rgb(255, 255, 255);
 .container .navbar .hire_me {
   text-align: right;
   float: right;
-  background: rgb(255, 0, 0) none repeat scroll 0% 0%;
   color: white;
   font-weight: 700;
 }
@@ -218,6 +217,15 @@ transition: all 0.3s;
 }
 
 @media (max-width:900px) {
+
+    .container {
+    padding: 0px 15px;
+    }
+
+    .container .navbar {
+    margin-top: 15px;
+    }
+
     .container article blockquote {
         margin-left: 0;
         margin-right: 0;
