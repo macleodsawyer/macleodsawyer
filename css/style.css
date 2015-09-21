@@ -164,6 +164,9 @@ border-bottom: 1px solid #fff;
 }
 
 .container article img {
+  max-width: 100%;
+  margin: 0px auto;
+  text-align: center;
 }
 
 .footer {
