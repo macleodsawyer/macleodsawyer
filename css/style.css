@@ -5,11 +5,16 @@ color: rgb(255, 255, 255);
   
   body {
   font-family: "Raleway";
+  margin: 0px;
 }
 
 .container {
   max-width: 760px;
   margin: 0px auto;
+  background:rgba(0, 0, 0, 0.1) none repeat scroll 0% 0%;
+  padding: 5px 55px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .container .navbar {
