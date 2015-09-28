@@ -1,13 +1,25 @@
 ---
-title: Macleod Sawyer
 layout: default
-image: "https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/1510513_10203044876561680_2514096962581317846_n.jpg"
+image: 'index.png'
 ---
 
-  <div class="intro">
-    <h1>Macleod Sawyer</h1>
-    <h2>Blogger, developer, entrepreneur, and minimalist.</h2>
-  </div>
-{% include newsletter.html %}
+{% include index_header.html %}
+</div>
+{% include navbar.html %}
+<div class="container" id="content">
 
-{% include archives.html %}
+          {% for post in site.posts %}
+            <ul class="recent-posts">
+                <li>
+                    <a href="{{ site.baseurl }}{{ post.url }}">
+                      <div>
+                        <span class="title">{{ post.title }}</span>
+                        <span class="date">{{ post.date | date: "%B %e, %Y" }}</span>
+                      </div>
+                    </a>
+                    <a class="summary" href="{{ site.baseurl }}{{ post.url }}">{{ post.content | strip_html | truncatewords:21}}</a>
+                  </li>
+
+          {% endfor %}
+
+</div>
