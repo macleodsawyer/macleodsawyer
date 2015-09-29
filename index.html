@@ -17,7 +17,7 @@ image: 'index.png'
                         <span class="date">{{ post.date | date: "%B %e, %Y" }}</span>
                       </div>
                     </a>
-                    <a class="summary" href="{{ site.baseurl }}{{ post.url }}">{{ excerpt }}</a>
+                    <a class="summary" href="{{ site.baseurl }}{{ post.url }}">{{ post.excerpt }}</a>
                   </li>
 
           {% endfor %}
