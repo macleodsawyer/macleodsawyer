@@ -1,25 +1,52 @@
----
-layout: default
-image: 'index.png'
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
-{% include index_header.html %}
-</div>
-{% include navbar.html %}
-<div class="container" id="content">
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Macleod Sawyer</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
 
-          {% for post in site.posts %}
-            <ul class="recent-posts">
-                <li>
-                    <a href="{{ site.baseurl }}{{ post.url }}">
-                      <div>
-                        <span class="title">{{ post.title }}</span>
-                        <span class="date">{{ post.date | date: "%B %e, %Y" }}</span>
-                      </div>
-                    </a>
-                    <a class="summary" href="{{ site.baseurl }}{{ post.url }}">{{ post.content | strip_html | truncatewords: 22 }}</a>
-                  </li>
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-          {% endfor %}
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
 
-</div>
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="https://cdn-images-1.medium.com/max/1000/1*-rL-0HOHjLHdefhqNiBBmA.png">
+
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="container">
+    <div class="row">
+      <div class="12 columns" style="margin-top: 10%">
+        <h1>Hello, my name is <strong>Macleod Sawyer.</strong></h1>
+        <h2>I am the CEO of <a href="http://ideadrops.xyz" target="_blank"><strong>IdeaDrops,</strong></a></h2>
+        <h2>I am the founder of <a href="https://charitydrops.org/" target="_blank"><strong>CharityDrops.org,</strong></a></h2>
+        <h2>I love to write long form <a href="http://blog.macleodsawyer.com/" target="_blank"><strong>articles,</strong></a></h2>
+        <h2>I love to tweet about <a href="http://twitter.com/mxsawyer" target="_blank"><strong>everything,</strong></a></h2>
+        <h2>And soon I will appear on a <span href="" target="_blank"><strong>weekly podcast.</strong></a></h2>
+        <p>Want to hire me? talk to me? something else? <a href="mailto:macleod@macleodsawyer.com">Click here.</a> </h2>
+
+      </div>
+      </div>
+    </div>
+  </div>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>

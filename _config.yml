@@ -14,8 +14,6 @@ description: Blogger, developer, entrepreneur, minimalist, and nerd.
 # Flags below are optional
 #
 
-include: ['_pages']
-
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
@@ -54,8 +52,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
-highlighter: pygments
+
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
