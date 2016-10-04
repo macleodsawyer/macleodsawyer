@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/macleod
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://macleodsawyer.com
+  * I am macleod (https://keybase.io/macleod) on keybase.
+  * I have a public key ASA0FTHZZbddJxlt1SlkVz656JPaZrYqJ2MuucExLTNePwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120341531d965b75d27196dd52964573eb9e893da66b62a27632eb9c1312d335e3f0a",
+            "host": "keybase.io",
+            "kid": "0120341531d965b75d27196dd52964573eb9e893da66b62a27632eb9c1312d335e3f0a",
+            "uid": "888b90a08f6cea93eec0441a86195719",
+            "username": "macleod"
+        },
+        "service": {
+            "hostname": "macleodsawyer.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1475539479,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1475539319,
+        "hash": "bc7fb0ab6574a3b09aed15e681e2302c3574a139cb3843aec3b4b5f7dd44b845971f8e3458dcc790d8ee0274bca5d5fbe2008eda6da0b3e9abcb845509caff86",
+        "seqno": 662799
+    },
+    "prev": "040dac64a8ce440d375904fe1128ffa2eb122c259957f6c3fa40981955cf0a2b",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNBUx2WW3XScZbdUpZFc+ueiT2ma2KidjLrnBMS0zXj8Kp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMzQxNTMxZDk2NWI3NWQyNzE5NmRkNTI5NjQ1NzNlYjllODkzZGE2NmI2MmEyNzYzMmViOWMxMzEyZDMzNWUzZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzQxNTMxZDk2NWI3NWQyNzE5NmRkNTI5NjQ1NzNlYjllODkzZGE2NmI2MmEyNzYzMmViOWMxMzEyZDMzNWUzZjBhIiwidWlkIjoiODg4YjkwYTA4ZjZjZWE5M2VlYzA0NDFhODYxOTU3MTkiLCJ1c2VybmFtZSI6Im1hY2xlb2QifSwic2VydmljZSI6eyJob3N0bmFtZSI6Im1hY2xlb2RzYXd5ZXIuY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTcifSwiY3RpbWUiOjE0NzU1Mzk0NzksImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3NTUzOTMxOSwiaGFzaCI6ImJjN2ZiMGFiNjU3NGEzYjA5YWVkMTVlNjgxZTIzMDJjMzU3NGExMzljYjM4NDNhZWMzYjRiNWY3ZGQ0NGI4NDU5NzFmOGUzNDU4ZGNjNzkwZDhlZTAyNzRiY2E1ZDVmYmUyMDA4ZWRhNmRhMGIzZTlhYmNiODQ1NTA5Y2FmZjg2Iiwic2Vxbm8iOjY2Mjc5OX0sInByZXYiOiIwNDBkYWM2NGE4Y2U0NDBkMzc1OTA0ZmUxMTI4ZmZhMmViMTIyYzI1OTk1N2Y2YzNmYTQwOTgxOTU1Y2YwYTJiIiwic2Vxbm8iOjYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAW6SPa9C5/kByz4hNUdVAsD0glX619vNtphEWA8y641r1T+vPQ60YdD7plJZFNU8O95vtkMvrEccHVA3vqmmQD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIeLm/JoMS9sIgZBnz0CAdv4PfsYCU9VMiSSU5LyB99Ho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/macleod
+
+==================================================================
